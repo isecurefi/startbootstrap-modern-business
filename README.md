@@ -1,5 +1,4 @@
 # ISECure.fi Website
 
-#### Original README.md
+- Original [README.md](https://github.com/IronSummitMedia/startbootstrap-modern-business/blob/gh-pages/README.md)
 
-[Start Bootstrap](http://startbootstrap.com/) - [Modern Business](http://startbootstrap.com/template-overviews/modern-business/)
