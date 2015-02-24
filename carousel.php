@@ -25,7 +25,7 @@ function carousel($pageNum)
                 </div>
             </div>
             <div class="item<?php if ($pageNum == 3) echo ' active';?>">
-                <div class="fill" style="background-image:url('images/isecure_kerays3.jpg');"></div>
+                <div class="fill" style="background-image:url('images/isecure_header_6.png');"></div>
                 <div class="carousel-caption">
                     <h2>WS-Ker&auml;sStatus</h2>
                 </div>
