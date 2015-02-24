@@ -16,18 +16,28 @@ function carousel($pageNum)
                 <div class="fill" style="background-image:url('images/isecure_header2.jpg');"></div>
                 <div class="carousel-caption">
                     <h2>WS-Kanava</h2>
+		    <h4>Kun tarvitset liikeideaasi tai
+		    asiakas-projektiasi varten pankkiyhteyskanavan tai
+		    haluat automatisoida pankkiaineistojen käsittelyä</h4>
                 </div>
             </div>
             <div class="item<?php if ($pageNum == 2) echo ' active';?>">
                 <div class="fill" style="background-image:url('images/isecure_ws1.jpg');"></div>
                 <div class="carousel-caption">
                     <h2>WS-Kustom</h2>
+		    <h4>Olet suunnittelemassa omaa palvelua ja
+		    tarvitset teknistä apua WS-Kanavan käytössä. Me
+		    osaamme pankkiyhteysasiat ja räätälöinnin.</h4>
                 </div>
             </div>
             <div class="item<?php if ($pageNum == 3) echo ' active';?>">
                 <div class="fill" style="background-image:url('images/isecure_header_6.png');"></div>
                 <div class="carousel-caption">
                     <h2>WS-Ker&auml;sStatus</h2>
+		    <h4>KeräysStatus-palvelu tekee käteis- ja
+		    verkkomaksukeräyksistä helpompaa, hallitumpaa ja
+		    paremmin seurattavaa</h4>
+
                 </div>
             </div>
         </div>
