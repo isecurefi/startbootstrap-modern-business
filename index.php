@@ -41,8 +41,10 @@
 			asiakasprojektiasi varten pankki-yhteyskanavan
 			tai haluat automa-tisoida pankkiaineistojen
 			käsittelyä.</p>
- 
+
 			<p>SELECTED / COLLABORATOR  +HOSTED</p>
+			<img src="images/isecure_header1.jpg" style="width:100%;"><br><br>
+
                         <a href="#" class="btn btn-primary">VERTAA PAKETTEJA</a><br><br>
                         <a href="#" class="btn btn-primary">OTA YHTEYTT&Auml;</a>
                     </div>
@@ -62,6 +64,7 @@
 		      tarvitset teknistä apua WS-Kanavan käytössä. Me
 		      osaamme pankkiyhteysasiat ja räätälöinnin.</p>
 
+		      <img src="images/isecure_ws1.jpg" style="width:100%;"><br><br>
                       <a href="#" class="btn btn-primary">OTA YHTEYTT&Auml;</a>
                     </div>
                 </div>
@@ -80,6 +83,7 @@
 		      paremmin seurattavaa. Se rakentuu ISECuren
 		      WS-Kanavan päälle.</p>
 
+		      <img src="images/isecure_header_6.png" style="width:100%;"><br><br>
                       <a href="#" class="btn btn-primary">OTA YHTEYTT&Auml;</a>
                     </div>
                 </div>
