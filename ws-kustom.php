@@ -71,7 +71,7 @@
             <div class="col-lg-12">
                 <h2 class="page-header"></h2>
             </div>
-            <div class="col-md-4 col-sm-7">
+            <div class="col-md-4 col-md-7">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h4>SELECTED CODE</h4>
@@ -89,7 +89,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-7">
+            <div class="col-md-4 col-md-7">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h4>DEVELOPER ACCESS</h4>
@@ -111,7 +111,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-7">
+            <div class="col-md-4 col-md-7">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h4>+HOSTING</h4>

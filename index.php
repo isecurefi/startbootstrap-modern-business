@@ -8,19 +8,28 @@
     <?php include('carousel.php'); carousel(1); ?>
 
     <!-- Page Content -->
-    <div class="container">
+    <div class="container-fluid">
 
         <!-- Marketing Icons Section -->
         <div class="row">
-            <div class="col-lg-12">
-                <h1 class="page-header">
-                    <img src="images/isecure_ws4.jpg" class="customer-img">
-                </h1>
+            <div class="col-md-12 supportedbanks">
+                <!-- <img src="images/supported-banks.jpg" class="customer-img" style="width:100%;"> -->
+    <p>TUETUT PANKIT: NORDEA, DANSKEBANK, OSUUSPANKKI, ÅLANDSBANKEN, , S-PANKKI/LÄHITAPIOLA JA SAMLINK-PANKIT: <br>HANDELSBANKEN, AKTIA, POP, SÄÄSTÖPANKKI. VERKKOMAKSUNAPIT OSUUSPANKILLE, NORDEALLE JA DANSKEBANKILLE.</p>
             </div>
+        </div>
+        <!-- /.row -->
+    </div>
+
+    <!-- Page Content -->
+    <div class="container">
+        <div class="row">
+            <hr>
+        </div>
+        <div class="row well wskanava">
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
-                        <h4>TUOTEKEHITT&Auml;J&Auml;LLE<br>ISECure WS-Kanava</h4>
+                        <h3 class="panel-title">TUOTEKEHITT&Auml;JILLE<br>ISECure WS-Kanava</h3>
                     </div>
                     <div class="panel-body">
                         <p>VALMIS KOMPONENTTI PALVELU-KEHITTÄJILLE JA
@@ -38,9 +47,9 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
-                        <h4>YRITYKSELLE<br>ISECure WS-Kustom</h4>
+                        <h3 class="panel-title">YRITYKSILLE<br>ISECure WS-Kustom</h3>
                     </div>
                     <div class="panel-body">
 		      <p>WS-KANAVAN INTEGROINTIPALVELUA,
@@ -56,9 +65,9 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
-                        <h4>J&Auml;RJEST&Ouml;LLE<br>ISECure Ker&auml;ysStatus</h4>
+                        <h3 class="panel-title">J&Auml;RJEST&Ouml;ILLE<br>ISECure Ker&auml;ysStatus</h3>
                     </div>
                     <div class="panel-body">
 		      <p>VERKKOPALVELU HYVÄNTEKEVÄISYYS- JA
@@ -75,20 +84,22 @@
             </div>
         </div>
         <!-- /.row -->
+    </div>
 
-        <!-- Features Section -->
+    <!-- Page Content -->
+    <div class="container-fluid contact">
+        <div class="container">
         <?php include('contact.php'); ?>
+        </div>
+    </div>
 
+    <!-- Page Content -->
+    <div class="container">
         <hr>
-
-        <!-- Call to Action Section -->
         <?php include('ws-info.php'); ?>
-
         <hr>
-
         <!-- Footer -->
         <?php include('footer.php'); ?>
-
     </div>
     <!-- /.container -->
 

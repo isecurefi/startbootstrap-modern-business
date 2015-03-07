@@ -1,0 +1,44 @@
+.contact {
+    background-color: #44413A;
+    color: #eee;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.contact input, textarea {
+    margin: 2px;
+    width: 100%;
+    font-color: #999;
+}
+
+/* Overried Carousel settings */
+.carousel-control.right {
+    background-image: none !important;
+    filter: none !important;
+}
+.carousel-control.left {
+    background-image: none !important;
+    filter: none !important;
+}
+.carousel-inner {
+    background-color: #6fa5be;
+}
+
+/* override navbar */
+.navbar-inverse {
+    background-color: #FFF;
+    border-color: #A9A28F;
+}
+
+.well {
+    padding: 10px;
+}
+
+.wskanava {
+    background-color: #ee8266;
+}
+
+.supportedbanks {
+    color: #eee;
+    background-color: #444 !important;
+}
