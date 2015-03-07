@@ -13,7 +13,7 @@ function carousel($pageNum)
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item<?php if ($pageNum == 1) echo ' active';?>">
-                <div class="fill" style="background-image:url('images/header2-tr.png');"></div>
+                <div class="fill" style="background-image:url('images/isecure_header2.jpg');"></div>
                 <div class="carousel-caption">
                     <h2>WS-Kanava</h2>
 		    <h4>Kun tarvitset liikeideaasi tai

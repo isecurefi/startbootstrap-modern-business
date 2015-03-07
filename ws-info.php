@@ -1,5 +1,5 @@
            <div class="row">
-                <div class="col-md-12 well">
+                <div class="col-md-12">
 		  <p>Yrityksen pankkiyhteys eli Web Service -kanava on
 		  välttämätön organisaatioille, jotka haluavat hoitaa
 		  ja seurata maksuliikennettään omien ohjelmistojensa

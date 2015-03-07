@@ -9,15 +9,17 @@
 
     <!-- Page Content -->
     <div class="container-fluid">
+        <div class="row supportedbanks">
 
-        <!-- Marketing Icons Section -->
-        <div class="row">
-            <div class="col-md-12 supportedbanks">
-                <!-- <img src="images/supported-banks.jpg" class="customer-img" style="width:100%;"> -->
-    <p>TUETUT PANKIT: NORDEA, DANSKEBANK, OSUUSPANKKI, ÅLANDSBANKEN, , S-PANKKI/LÄHITAPIOLA JA SAMLINK-PANKIT: <br>HANDELSBANKEN, AKTIA, POP, SÄÄSTÖPANKKI. VERKKOMAKSUNAPIT OSUUSPANKILLE, NORDEALLE JA DANSKEBANKILLE.</p>
+	  <div class="container">
+            <div class="col-md-12">
+              <!-- <img src="images/supported-banks.jpg" class="customer-img" style="width:100%;"> -->
+	      <p>TUETUT PANKIT: NORDEA, DANSKEBANK, OSUUSPANKKI, ÅLANDSBANKEN, S-PANKKI/LÄHITAPIOLA JA SAMLINK-PANKIT: <br>HANDELSBANKEN, AKTIA, POP, SÄÄSTÖPANKKI. VERKKOMAKSUNAPIT OSUUSPANKILLE, NORDEALLE JA DANSKEBANKILLE.</p>
             </div>
-        </div>
-        <!-- /.row -->
+          </div>
+          <!-- /.row -->
+	</div>
+
     </div>
 
     <!-- Page Content -->
@@ -25,7 +27,7 @@
         <div class="row">
             <hr>
         </div>
-        <div class="row well wskanava">
+        <div class="row well">
             <div class="col-md-4">
                 <div class="panel panel-primary">
                     <div class="panel-heading">
@@ -84,20 +86,11 @@
             </div>
         </div>
         <!-- /.row -->
-    </div>
 
-    <!-- Page Content -->
-    <div class="container-fluid contact">
-        <div class="container">
         <?php include('contact.php'); ?>
-        </div>
-    </div>
 
-    <!-- Page Content -->
-    <div class="container">
         <hr>
         <?php include('ws-info.php'); ?>
-        <hr>
         <!-- Footer -->
         <?php include('footer.php'); ?>
     </div>

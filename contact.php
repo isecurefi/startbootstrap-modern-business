@@ -1,7 +1,12 @@
-        <div class="row contact well">
-            <div class="col-md-4">
-             <p><img src="images/dforsber.png" class="img-portfolio"></p>
-             <p>OTA YHTEYTTÄ</p><br>
+    </div>
+
+    <!-- Page Content -->
+    <div class="container-fluid contact">
+        <div class="container">
+        <div class="row contact">
+            <div class="col-md-3">
+             <img src="images/dforsber.png" class="facepalm"><br>
+             <p>OTA YHTEYTTÄ</p>
              ISECure Oy<br>
              CEO Dr. Dan Forsberg, CSPO<br>
              dan.forsberg (a) isecure.fi<br>
@@ -11,7 +16,7 @@
              00210 Helsinki, Finland<br>
              Y-tunnus: 2296336-9<br>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-9">
                 <p> ISECure Oy on ohjelmistokehittäjä Dan Forsbergin
                 perustama yritys, joka tarjoaa Web Service
                 –pankkiyhteyden verifioitua koodia ja
@@ -36,3 +41,8 @@
             </div>
         </div>
         <!-- /.row -->
+        </div>
+    </div>
+
+    <!-- Page Content -->
+    <div class="container">

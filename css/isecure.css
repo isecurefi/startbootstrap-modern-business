@@ -5,6 +5,18 @@
     padding-bottom: 10px;
 }
 
+.footer {
+    background-color: #ddd !important;
+    color: #fff;
+    padding: 0px !important;
+    border-color: #A9A28F;
+}
+
+.footer-col {
+    text-align:center;
+    margin-top:5px;
+}
+
 .contact input, textarea {
     margin: 2px;
     width: 100%;
@@ -12,6 +24,10 @@
 }
 
 /* Overried Carousel settings */
+header.carousel {
+    height: 50%;
+}
+
 .carousel-control.right {
     background-image: none !important;
     filter: none !important;
@@ -30,6 +46,7 @@
     border-color: #A9A28F;
 }
 
+/* misc */
 .well {
     padding: 10px;
 }
@@ -40,5 +57,15 @@
 
 .supportedbanks {
     color: #eee;
-    background-color: #444 !important;
+    background-color: #444;
+    text-align: center;
 }
+
+.panel-body {
+    background-color: #ddd;
+}
+
+.facepalm {
+    padding-bottom: 5px;
+}
+
