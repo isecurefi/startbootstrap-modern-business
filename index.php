@@ -43,7 +43,7 @@
 			käsittelyä.</p>
 
 			<p>SELECTED / COLLABORATOR  +HOSTED</p>
-			<img src="images/isecure_header1.jpg" style="width:100%;"><br><br>
+			<img src="images/isecure_header1_b.png" style="width:100%;"><br><br>
 
                         <a href="#" class="btn btn-primary">VERTAA PAKETTEJA</a><br><br>
                         <a href="#" class="btn btn-primary">OTA YHTEYTT&Auml;</a>
