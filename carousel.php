@@ -13,7 +13,8 @@ function carousel($pageNum)
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item<?php if ($pageNum == 1) echo ' active';?>">
-                <div class="fill" style="background-image:url('images/isecure_header1_b.png');"></div>
+                <!-- <div class="fill" style="background-image:url('images/isecure_header1_b.png');"></div> -->
+                <img src="images/isecure_header1_b.png" style="height:65%;margin-left:auto;margin-right:auto;">
                 <div class="carousel-caption">
                     <h2>WS-Kanava</h2>
 		    <h4>Kun tarvitset liikeideaasi tai
@@ -22,7 +23,8 @@ function carousel($pageNum)
                 </div>
             </div>
             <div class="item<?php if ($pageNum == 2) echo ' active';?>">
-                <div class="fill" style="background-image:url('images/isecure_ws1.jpg');"></div>
+                <!-- <div class="fill" style="background-image:url('images/isecure_ws1.jpg');"></div> -->
+                <img src="images/isecure_ws1.jpg"  style="height:65%;margin-left:auto;margin-right:auto;">
                 <div class="carousel-caption">
                     <h2>WS-Kustom</h2>
 		    <h4>Olet suunnittelemassa omaa palvelua ja
@@ -31,7 +33,8 @@ function carousel($pageNum)
                 </div>
             </div>
             <div class="item<?php if ($pageNum == 3) echo ' active';?>">
-                <div class="fill" style="background-image:url('images/isecure_header_6.png');"></div>
+                <!-- <div class="fill" style="background-image:url('images/isecure_header_6.png');"></div> -->
+                <img src="images/isecure_header_6.png"  style="height:65%;margin-left:auto;margin-right:auto;">
                 <div class="carousel-caption">
                     <h2>WS-Ker&auml;sStatus</h2>
 		    <h4>KeräysStatus-palvelu tekee käteis- ja
