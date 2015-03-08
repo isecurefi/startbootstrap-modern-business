@@ -74,7 +74,12 @@ header.carousel {
     background-color: #6e6e68;
     text-align: center;
     box-shadow: 0px 0px 15px #888888;
-  -webkit-box-shadow: 0px 0px 15px #888888;
+    -webkit-box-shadow: 0px 0px 15px #888888;
+}
+
+.shadow {
+    box-shadow: 0px 0px 5px #888888;
+    -webkit-box-shadow: 0px 0px 5px #888888;
 }
 
 .supportedbanks p {
