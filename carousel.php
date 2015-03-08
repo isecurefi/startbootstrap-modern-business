@@ -7,39 +7,45 @@ function carousel($pageNum)
         <ol class="carousel-indicators">
 	      <li data-target="#myCarousel" data-slide-to="0" <?php if ($pageNum == 1) echo 'class="active"'; ?> ></li>
 	      <li data-target="#myCarousel" data-slide-to="1" <?php if ($pageNum == 2) echo 'class="active"'; ?> ></li>
-          <li data-target="#myCarousel" data-slide-to="2" <?php if ($pageNum == 3) echo 'class="active"'; ?> ></li>
+              <li data-target="#myCarousel" data-slide-to="2" <?php if ($pageNum == 3) echo 'class="active"'; ?> ></li>
         </ol>
 
-        <!-- Wrapper for slides -->
         <div class="carousel-inner">
+
+            <!-- Wrapper for slides -->
             <div class="item<?php if ($pageNum == 1) echo ' active';?>">
                 <!-- <div class="fill" style="background-image:url('images/isecure_header1_b.png');"></div> -->
-                <img src="images/isecure_header1_b.png" style="height:65%;margin-left:auto;margin-right:auto;">
+                <img src="images/isecure_header1_b.png" style="height:80%;margin-left:auto;margin-right:10%;">
                 <div class="carousel-caption">
-                    <h2>WS-Kanava</h2>
-		    <h4>Kun tarvitset liikeideaasi tai
+                    <h1>WS-Kanava</h1>
+		    <h3>Kun tarvitset liikeideaasi tai
 		    asiakas-projektiasi varten pankkiyhteyskanavan tai
-		    haluat automatisoida pankkiaineistojen käsittelyä</h4>
+		    haluat automatisoida pankkiaineistojen käsittelyä</h3>
+		    <a href="#ws-kanava" class="btn btn-primary">Mik&auml; WS-Kanava?</a><br><br>
                 </div>
             </div>
+
+            <!-- Wrapper for slides -->
             <div class="item<?php if ($pageNum == 2) echo ' active';?>">
                 <!-- <div class="fill" style="background-image:url('images/isecure_ws1.jpg');"></div> -->
-                <img src="images/isecure_ws1.jpg"  style="height:65%;margin-left:auto;margin-right:auto;">
+                <img src="images/isecure_ws1.jpg"  style="height:80%;margin-left:auto;margin-right:10%;">
                 <div class="carousel-caption">
-                    <h2>WS-Kustom</h2>
-		    <h4>Olet suunnittelemassa omaa palvelua ja
+                    <h1>WS-Kustom</h1>
+		    <h3>Olet suunnittelemassa omaa palvelua ja
 		    tarvitset teknistä apua WS-Kanavan käytössä. Me
-		    osaamme pankkiyhteysasiat ja räätälöinnin.</h4>
+		    osaamme pankkiyhteysasiat ja räätälöinnin.</h3>
                 </div>
             </div>
+
+            <!-- Wrapper for slides -->
             <div class="item<?php if ($pageNum == 3) echo ' active';?>">
                 <!-- <div class="fill" style="background-image:url('images/isecure_header_6.png');"></div> -->
-                <img src="images/isecure_header_6.png"  style="height:65%;margin-left:auto;margin-right:auto;">
+                <img src="images/isecure_header_6.png"  style="height:80%;margin-left:auto;margin-right:10%;">
                 <div class="carousel-caption">
-                    <h2>WS-Ker&auml;sStatus</h2>
-		    <h4>KeräysStatus-palvelu tekee käteis- ja
+                    <h1>WS-Ker&auml;sStatus</h1>
+		    <h3>KeräysStatus-palvelu tekee käteis- ja
 		    verkkomaksukeräyksistä helpompaa, hallitumpaa ja
-		    paremmin seurattavaa</h4>
+		    paremmin seurattavaa</h3>
                 </div>
             </div>
         </div>
