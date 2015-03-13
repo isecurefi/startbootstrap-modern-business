@@ -14,8 +14,7 @@ function carousel($pageNum)
 
             <!-- Wrapper for slides -->
             <div class="item<?php if ($pageNum == 1) echo ' active';?>">
-                <!-- <div class="fill" style="background-image:url('images/isecure_header1_b.png');"></div> -->
-                <img src="images/isecure_header1_b.png" style="height:80%;margin-left:auto;margin-right:10%;">
+                <img src="images/isecure_header1_b.png" style="height:100%;margin-left:auto;margin-right:5%;margin-top:auto;margin-bottom:auto;">
                 <div class="carousel-caption">
                     <h1>WS-Kanava</h1>
 		    <h3>Kun tarvitset liikeideaasi tai
@@ -27,25 +26,25 @@ function carousel($pageNum)
 
             <!-- Wrapper for slides -->
             <div class="item<?php if ($pageNum == 2) echo ' active';?>">
-                <!-- <div class="fill" style="background-image:url('images/isecure_ws1.jpg');"></div> -->
-                <img src="images/isecure_ws1.jpg"  style="height:80%;margin-left:auto;margin-right:10%;">
+                <img src="images/kustom.png"  style="height:80%;margin-left:auto;margin-right:10%;margin-top:auto;margin-bottom:auto;">
                 <div class="carousel-caption">
                     <h1>WS-Kustom</h1>
 		    <h3>Olet suunnittelemassa omaa palvelua ja
 		    tarvitset teknistä apua WS-Kanavan käytössä. Me
 		    osaamme pankkiyhteysasiat ja räätälöinnin.</h3>
+		    <a href="#ws-kustom" class="btn btn-primary">Mik&auml; WS-Kustom?</a><br><br>
                 </div>
             </div>
 
             <!-- Wrapper for slides -->
             <div class="item<?php if ($pageNum == 3) echo ' active';?>">
-                <!-- <div class="fill" style="background-image:url('images/isecure_header_6.png');"></div> -->
-                <img src="images/isecure_header_6.png"  style="height:80%;margin-left:auto;margin-right:10%;">
+                <img src="images/varainkeruu2.png"  style="height:90%;margin-left:auto;margin-right:10%;margin-top:auto;margin-bottom:auto;">
                 <div class="carousel-caption">
                     <h1>WS-Ker&auml;sStatus</h1>
 		    <h3>KeräysStatus-palvelu tekee käteis- ja
 		    verkkomaksukeräyksistä helpompaa, hallitumpaa ja
 		    paremmin seurattavaa</h3>
+		    <a href="#ws-kerays" class="btn btn-primary">Mik&auml; WS-Ker&auml;ys?</a><br><br>
                 </div>
             </div>
         </div>

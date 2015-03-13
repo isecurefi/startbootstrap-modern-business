@@ -19,7 +19,7 @@
 	    käsittelyä.</p>
 	  
 	  <p>SELECTED / COLLABORATOR  +HOSTED</p>
-	  <img src="images/isecure_header1_b.png" style="width:100%;"><br><br>
+	  <img src="images/isecure_header1_b.png" style="width:120%;"><br><br>
 	  
           <a href="#" class="btn btn-primary">VERTAA PAKETTEJA</a><br><br>
           <a href="#" class="btn btn-primary">OTA YHTEYTT&Auml;</a>
@@ -40,7 +40,7 @@
 	    tarvitset teknistä apua WS-Kanavan käytössä. Me
 	    osaamme pankkiyhteysasiat ja räätälöinnin.</p>
 	  
-	  <img src="images/isecure_ws1.jpg" style="width:100%;"><br><br>
+	  <img src="images/kustom.png" style="width:100%;"><br><br>
           <a href="#" class="btn btn-primary">OTA YHTEYTT&Auml;</a>
         </div>
       </div>
@@ -59,7 +59,7 @@
 	    paremmin seurattavaa. Se rakentuu ISECuren
 	    WS-Kanavan päälle.</p>
 	  
-	  <img src="images/isecure_header_6.png" style="width:100%;"><br><br>
+	  <img src="images/varainkeruu2.png" style="width:100%;"><br><br>
           <a href="#" class="btn btn-primary">OTA YHTEYTT&Auml;</a>
         </div>
       </div>
