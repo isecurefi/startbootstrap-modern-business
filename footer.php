@@ -21,7 +21,7 @@
 		Helsinki, Finland<br>
 		Y-tunnus: 2296336-9<br>
 		<a href="http://www.facebook.com/isecure.fi">
-		  <img src="images/facebook-icon.png"> facebook.com/­isecure.fi<br>
+		  <img src="images/facebook-icon.png"><br>facebook.com/­isecure.fi<br>
 		</a>
 	      </p>
             </div>

@@ -1,11 +1,12 @@
-<?php include('header.php'); ?> 
-<body>
-
-    <!-- top navigation -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <?php include('header.php'); ?> 
+  </head>
+  <body>
     <?php include('navigation.php'); ?>
-
-    <!-- Header Carousel -->
     <?php include('carousel.php'); carousel(1); ?>
+    <?php include('supportedbanks-fluid.php'); ?>
 
     <!-- Page Content -->
     <div class="container">
@@ -153,20 +154,12 @@
             </div>
         </div>
         -->
-
-        <!-- Features Section -->
-        <?php include('contact.php'); ?>
-
-        <hr>
-
-        <!-- Footer -->
-        <?php include('footer.php'); ?>
-
     </div>
     <!-- /.container -->
 
+    <?php include('contact.php'); ?>
+    <hr>
+    <?php include('footer.php'); ?>
     <?php include('end.php'); static_page(); ?>
-
-</body>
-
+  </body>
 </html>

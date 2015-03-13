@@ -10,11 +10,10 @@ function carousel($pageNum)
               <li data-target="#myCarousel" data-slide-to="2" <?php if ($pageNum == 3) echo 'class="active"'; ?> ></li>
         </ol>
 
-        <div class="carousel-inner">
-
+        <div class="carousel-inner first">
             <!-- Wrapper for slides -->
-            <div class="item<?php if ($pageNum == 1) echo ' active';?>">
-                <img src="images/isecure_header1_b.png" style="height:100%;margin-left:auto;margin-right:5%;margin-top:auto;margin-bottom:auto;">
+            <div class="item<?php if ($pageNum == 1) echo ' active';?> carousel-first">
+                <img src="images/isecure_header1_b.png" style="height:100%;margin-left:auto;margin-right:5%;margin-top:auto;margin-bottom:auto;padding-top:1%;">
                 <div class="carousel-caption">
                     <h1>WS-Kanava</h1>
 		    <h3>Kun tarvitset liikeideaasi tai
@@ -25,8 +24,8 @@ function carousel($pageNum)
             </div>
 
             <!-- Wrapper for slides -->
-            <div class="item<?php if ($pageNum == 2) echo ' active';?>">
-                <img src="images/kustom.png"  style="height:80%;margin-left:auto;margin-right:10%;margin-top:auto;margin-bottom:auto;">
+            <div class="item<?php if ($pageNum == 2) echo ' active';?> carousel-second">
+                <img src="images/kustom.png"  style="height:80%;margin-left:auto;margin-right:10%;margin-top:auto;margin-bottom:auto;padding-top:2%;">
                 <div class="carousel-caption">
                     <h1>WS-Kustom</h1>
 		    <h3>Olet suunnittelemassa omaa palvelua ja
@@ -37,8 +36,8 @@ function carousel($pageNum)
             </div>
 
             <!-- Wrapper for slides -->
-            <div class="item<?php if ($pageNum == 3) echo ' active';?>">
-                <img src="images/varainkeruu2.png"  style="height:90%;margin-left:auto;margin-right:10%;margin-top:auto;margin-bottom:auto;">
+            <div class="item<?php if ($pageNum == 3) echo ' active';?> carousel-third">
+                <img src="images/varainkeruu2.png"  style="height:90%;margin-left:auto;margin-right:10%;margin-top:auto;margin-bottom:auto;padding-top:1%;">
                 <div class="carousel-caption">
                     <h1>WS-Ker&auml;sStatus</h1>
 		    <h3>KeräysStatus-palvelu tekee käteis- ja

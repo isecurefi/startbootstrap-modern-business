@@ -37,7 +37,15 @@ header.carousel {
     filter: none !important;
 }
 .carousel-inner {
+}
+.carousel-first {
     background-color: #6fa5be;
+}
+.carousel-second {
+    background-color: #ef9872;
+}
+.carousel-third {
+    background-color: #adc16f;
 }
 .carousel-caption {
   position: absolute;
