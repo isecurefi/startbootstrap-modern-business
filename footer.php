@@ -5,7 +5,7 @@
           <hr>
           <div class="row">
             <div class="col-xs-4 footer-col">
-	    <img src="images/isecure-small-logo.png" style="height:100%"><br>
+	    <img src="images/isecure-small-logo.png" style="width:80%;"><br>
 	    <p><a href="https://www.isecure.fi/">https://www.isecure.fi/</a></p>
             </div>
             <div class="col-xs-4 footer-col">
