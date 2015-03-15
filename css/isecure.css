@@ -1,3 +1,12 @@
+/* MEDIA */
+/* narrower desktop browser */
+@media (min-width: 1200px) {
+  .container {
+    width: 970px;
+  }
+}
+
+/* Misc */
 .contact {
     background-color: #2a2a24;
     color: #eee;
@@ -23,6 +32,16 @@
     font-color: #999;
 }
 
+.panel-heading-first {
+    background-color: #6fa5be !important;
+}
+.panel-heading-second {
+    background-color: #ef9872 !important;
+}
+.panel-heading-third {
+    background-color: #adc16f !important;
+}
+
 /* Overried Carousel settings */
 header.carousel {
     height: 50%;
@@ -35,8 +54,6 @@ header.carousel {
 .carousel-control.left {
     background-image: none !important;
     filter: none !important;
-}
-.carousel-inner {
 }
 .carousel-first {
     background-color: #6fa5be;
@@ -64,7 +81,7 @@ header.carousel {
 
 /* override navbar */
 .navbar-inverse {
-    background-color: #FFF;
+    background-color: #fff;
     border-color: #A9A28F;
 }
 
@@ -94,8 +111,12 @@ header.carousel {
     padding-top: 8px;
 }
 
+.panel-title {
+    text-align: center;
+}
+
 .panel-body {
-    background-color: #ddd;
+    background-color: #eee;
 }
 
 .facepalm {

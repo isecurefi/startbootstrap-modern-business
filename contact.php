@@ -4,7 +4,7 @@
 <div class="container-fluid contact shadow">
   <div class="container">
     <div class="row contact">
-      <div class="col-md-3">
+      <div class="col-md-3 col-xs-3">
         <img src="images/dforsber.png" class="facepalm"><br>
         <p>OTA YHTEYTTÄ</p>
         ISECure Oy<br>
@@ -16,7 +16,7 @@
         00210 Helsinki, Finland<br>
         Y-tunnus: 2296336-9<br>
       </div>
-      <div class="col-md-9">
+      <div class="col-md-9 col-xs-9">
         <p> ISECure Oy on ohjelmistokehittäjä Dan Forsbergin
           perustama yritys, joka tarjoaa Web Service
           –pankkiyhteyden verifioitua koodia ja
@@ -32,11 +32,13 @@
           –turvallisuussuunnittelu sekä AWS-pilvipalvelut.
 	</p>
 	<p class="contact">
-	  <input type="text" name="name" placeholder="Nimi"><br>
-	  <input type="text" name="email" placeholder="S&auml;hk&ouml;posti"><br>
-	  <input type="text" name="subject" placeholder="Otsikko"><br>
-	  <textarea name="viesti" cols="" rows="5" placeholder="Viesti"></textarea><br>
-          <a href="#" class="btn btn-primary">L&Auml;HET&Auml;</a>
+	  <form id="contact-form" action="thankyou.php" method="post">
+	    <input type="text" name="name" placeholder="Nimi"><br>
+	    <input type="text" name="email" placeholder="S&auml;hk&ouml;posti"><br>
+	    <input type="text" name="subject" placeholder="Otsikko"><br>
+	    <textarea name="message" cols="" rows="5" placeholder="Viesti"></textarea><br>
+	  </form>
+          <input type="submit" class="btn btn-primary" value="L&Auml;HET&Auml;" style="text-align:center;">
 	</p>
       </div>
     </div>

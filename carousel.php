@@ -19,7 +19,7 @@ function carousel($pageNum)
 		    <h3>Kun tarvitset liikeideaasi tai
 		    asiakas-projektiasi varten pankkiyhteyskanavan tai
 		    haluat automatisoida pankkiaineistojen käsittelyä</h3>
-		    <a href="#ws-kanava" class="btn btn-primary">Mik&auml; WS-Kanava?</a><br><br>
+                <a href="#ws-kanava" class="btn btn-primary">Mik&auml; WS-Kanava?</a><br><br>
                 </div>
             </div>
 
@@ -31,7 +31,7 @@ function carousel($pageNum)
 		    <h3>Olet suunnittelemassa omaa palvelua ja
 		    tarvitset teknistä apua WS-Kanavan käytössä. Me
 		    osaamme pankkiyhteysasiat ja räätälöinnin.</h3>
-		    <a href="#ws-kustom" class="btn btn-primary">Mik&auml; WS-Kustom?</a><br><br>
+		    <a href="ws-kustom.php" class="btn btn-primary">WS-Kustom</a><br><br>
                 </div>
             </div>
 
@@ -39,11 +39,11 @@ function carousel($pageNum)
             <div class="item<?php if ($pageNum == 3) echo ' active';?> carousel-third">
                 <img src="images/varainkeruu2.png"  style="height:90%;margin-left:auto;margin-right:10%;margin-top:auto;margin-bottom:auto;padding-top:1%;">
                 <div class="carousel-caption">
-                    <h1>WS-Ker&auml;sStatus</h1>
+                    <h1>WS-Ker&auml;ysStatus</h1>
 		    <h3>KeräysStatus-palvelu tekee käteis- ja
 		    verkkomaksukeräyksistä helpompaa, hallitumpaa ja
 		    paremmin seurattavaa</h3>
-		    <a href="#ws-kerays" class="btn btn-primary">Mik&auml; WS-Ker&auml;ys?</a><br><br>
+		    <a href="ws-keraysstatus.php" class="btn btn-primary">WS-Ker&auml;ys</a><br><br>
                 </div>
             </div>
         </div>

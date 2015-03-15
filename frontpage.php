@@ -1,13 +1,15 @@
 <!-- Page Content -->
 <div class="container">
-  <div class="row">
+  <div class="row"  style="margin-right:auto;margin-left:auto;">
+    <hr>
+    <img src="images/isecure_ws4.jpg" style="width:80%;margin-left:10%;">
     <hr>
   </div>
-  <div class="row well">
-    <div class="col-md-4">
+  <div class="row">
+    <div class="col-md-4 col-sm-4 col-xs-4">
       <div class="panel panel-primary">
-        <div class="panel-heading">
-          <h3 class="panel-title">TUOTEKEHITT&Auml;JILLE<br>ISECure WS-Kanava</h3>
+        <div class="panel-heading panel-heading-first">
+          <h2 class="panel-title">TUOTEKEHITT&Auml;JILLE<br><br>ISECure WS-Kanava</h2>
         </div>
         <div class="panel-body">
           <p>VALMIS KOMPONENTTI PALVELU-KEHITTÄJILLE JA
@@ -26,10 +28,10 @@
         </div>
       </div>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4 col-sm-4 col-xs-4">
       <div class="panel panel-primary">
-        <div class="panel-heading">
-          <h3 class="panel-title">YRITYKSILLE<br>ISECure WS-Kustom</h3>
+        <div class="panel-heading panel-heading-second">
+          <h2 class="panel-title">YRITYKSILLE<br><br>ISECure WS-Kustom</h2>
         </div>
         <div class="panel-body">
 	  <p>WS-KANAVAN INTEGROINTIPALVELUA,
@@ -45,10 +47,10 @@
         </div>
       </div>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4 col-sm-4 col-xs-4">
       <div class="panel panel-primary">
-        <div class="panel-heading">
-          <h3 class="panel-title">J&Auml;RJEST&Ouml;ILLE<br>ISECure Ker&auml;ysStatus</h3>
+        <div class="panel-heading panel-heading-third">
+          <h3 class="panel-title">J&Auml;RJEST&Ouml;ILLE<br><br>ISECure Ker&auml;ysStatus</h3>
         </div>
         <div class="panel-body">
 	  <p>VERKKOPALVELU HYVÄNTEKEVÄISYYS- JA

@@ -1,9 +1,10 @@
 <div class="row" id="ws-kanava">
   <div class="col-md-12">
-    <p>Yrityksen pankkiyhteys eli Web Service -kanava on
-      välttämätön organisaatioille, jotka haluavat hoitaa
-      ja seurata maksuliikennettään omien ohjelmistojensa
-      kautta.</p>
+
+     <p>Yrityksen pankkiyhteys eli Web Service -kanava
+      (tai <b>WS-kanava</b>) on välttämätön organisaatioille, jotka
+      haluavat hoitaa ja seurata maksuliikennettään omien
+      ohjelmistojensa kautta.</p>
 
     <p>Yritys tarvitsee yhteyskanavan
       maksuliikeaineiston välittämiseen yrityksen
