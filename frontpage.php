@@ -6,7 +6,7 @@
     <hr>
   </div>
   <div class="row">
-    <div class="col-md-4 col-sm-4 col-xs-4">
+    <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="panel panel-primary">
         <div class="panel-heading panel-heading-first">
           <h2 class="panel-title">TUOTEKEHITT&Auml;JILLE<br><br>ISECure WS-Kanava</h2>
@@ -28,7 +28,7 @@
         </div>
       </div>
     </div>
-    <div class="col-md-4 col-sm-4 col-xs-4">
+    <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="panel panel-primary">
         <div class="panel-heading panel-heading-second">
           <h2 class="panel-title">YRITYKSILLE<br><br>ISECure WS-Kustom</h2>
@@ -47,7 +47,7 @@
         </div>
       </div>
     </div>
-    <div class="col-md-4 col-sm-4 col-xs-4">
+    <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="panel panel-primary">
         <div class="panel-heading panel-heading-third">
           <h3 class="panel-title">J&Auml;RJEST&Ouml;ILLE<br><br>ISECure Ker&auml;ysStatus</h3>

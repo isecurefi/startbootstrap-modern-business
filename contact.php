@@ -4,7 +4,7 @@
 <div class="container-fluid contact shadow">
   <div class="container">
     <div class="row contact">
-      <div class="col-md-3 col-xs-3">
+      <div class="col-md-3 col-sm-3 col-xs-12">
         <img src="images/dforsber.png" class="facepalm"><br>
         <p>OTA YHTEYTTÄ</p>
         ISECure Oy<br>
@@ -16,7 +16,7 @@
         00210 Helsinki, Finland<br>
         Y-tunnus: 2296336-9<br>
       </div>
-      <div class="col-md-9 col-xs-9">
+      <div class="col-md-9 col-sm-9 col-xs-12">
         <p> ISECure Oy on ohjelmistokehittäjä Dan Forsbergin
           perustama yritys, joka tarjoaa Web Service
           –pankkiyhteyden verifioitua koodia ja
