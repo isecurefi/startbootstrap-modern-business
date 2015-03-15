@@ -15,6 +15,7 @@
         Melkonkatu 7 A 33<br>
         00210 Helsinki, Finland<br>
         Y-tunnus: 2296336-9<br>
+        <hr>
       </div>
       <div class="col-md-9 col-sm-9 col-xs-12">
         <p> ISECure Oy on ohjelmistokehittäjä Dan Forsbergin
