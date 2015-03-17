@@ -61,7 +61,7 @@
 		DanskeBankille. Toteutus myös muille pankeille
 		tarvittaessa.
 	      </ul>
-              <a href="#" class="btn btn-primary">Kysy Lis&auml;&auml;</a>
+              <a href="#contact" class="btn btn-primary">Kysy Lis&auml;&auml;</a>
             </div>
         </div>
         <!-- /.row -->

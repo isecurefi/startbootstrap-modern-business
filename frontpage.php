@@ -21,9 +21,8 @@
 	    käsittelyä.</p>
 	  
 	  <p>SELECTED / COLLABORATOR  +HOSTED</p>
-	  <img src="images/isecure_header1_b.png" style="width:120%;"><br><br>
-	  
-          <a href="#" class="btn btn-primary">VERTAA PAKETTEJA</a><br><br>
+	  <img src="images/isecure_header1_b.png" style="width:100%;"><br><br>
+          <a href="ws-kanava.php" class="btn btn-primary">VERTAA PAKETTEJA</a><br><br>
           <a href="#" class="btn btn-primary">OTA YHTEYTT&Auml;</a>
         </div>
       </div>

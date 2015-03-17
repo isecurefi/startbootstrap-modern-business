@@ -53,7 +53,7 @@
 	      myös WS-kanavan suoraan palveluna Hosting -paketilla
 	      valitsemillesi tai kaikille pankeille.</p>
 	      
-              <a href="#" class="btn btn-primary">Kysy Lis&auml;&auml;</a>
+              <a href="#contact" class="btn btn-primary">Kysy Lis&auml;&auml;</a>
             </div>
         </div>
         <!-- /.row -->
@@ -68,17 +68,17 @@
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h4>SELECTED CODE</h4>
-                        <p>VALITTUJEN PANKKIEN WS-KANAVIEN KOODI</p>
+                        <p>VALITTUJEN PANKKIEN<br> WS-KANAVIEN KOODI</p>
                     </div>
                     <div class="panel-body">
-			<p>Valitsemasi tuetut pankit</p>
 			<ul>
+			  <li>Valitsemasi tuetut pankit
 			  <li>PHP5 (osin C) lähdekoodi, jonka pohjalta rakennat palvelun tai integraation
 			  <li>Luokkapohjainen tai suora funktiokutsu -rajapinta
 			  <li>Luokkapohjainen rajapinta lisäksi suojaa jokaisen pankkikoodin omaan prosessiin, jonka PHP rajapintaa voidaan edelleen rajoittaa ja tiukentaa (php-sandbox)
 			  <li>Lähdekoodia ei saa jälleemyydä, eikä laittaa avoimeen jakeluun
 			</ul>
-                        <a href="#" class="btn btn-primary">Kysy Lis&auml;&auml;</a>
+                        <a href="#contact" class="btn btn-primary">Kysy Lis&auml;&auml;</a>
                     </div>
                 </div>
             </div>
@@ -86,7 +86,7 @@
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h4>DEVELOPER ACCESS</h4>
-			<p>KAIKKIEN PANKKIEN WS-KANAVAT + GITHUB + TUKIPALVELU</p>
+			<p>KAIKKIEN&nbsp;PANKKIEN WS-KANAVAT<br>+ GITHUB + TUKIPALVELU</p>
                     </div>
                     <div class="panel-body">
  			<ul>
@@ -100,15 +100,15 @@
 			  <li>Tukipalvelu GitHubin tikettijärjestelmän kautta
 			  <li>HUOM: Kysy myös erillisenä palveluna valmis ja ajantasainen pankki-integrointiympäristö
 			</ul>
-                        <a href="#" class="btn btn-primary">Kysy Lis&auml;&auml;</a>
+                        <a href="#contact" class="btn btn-primary">Kysy Lis&auml;&auml;</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 col-md-7">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
-                        <h4>+HOSTING</h4>
-                        <p>WS-KANAVAT PILVIPALVELUNA</p>
+                        <h4>+&nbsp;HOSTING</h4>
+                        <p>WS-KANAVAT<br> PILVIPALVELUNA</p>
                     </div>
                     <div class="panel-body">
 			<ul>
@@ -117,7 +117,7 @@
 			  <li>Automaattiset tietoturva- ja korjauspäivitykset
 			  <li>Formaattimuunnokset, esim. JSON
 			</ul>
-                        <a href="#" class="btn btn-primary">Kysy Lis&auml;&auml;</a>
+                        <a href="#contact" class="btn btn-primary">Kysy Lis&auml;&auml;</a>
                     </div>
                 </div>
             </div>
