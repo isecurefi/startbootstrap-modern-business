@@ -9,7 +9,7 @@
      <div class="row">
        <div class="col-xs-12">
 	 <h2 class="">Tarvitsetko ratkaisuja pankkiyhteyksien rakentamiseen?</h2>
-	 <p>Tarjoamme eri kohderyhmille ISECure WS-Kanava:aan perustuvia paketteja:</p>
+	 <p>Tarjoamme ISECure WS-Kanava:aan perustuvia paketteja:</p>
        </div>
      </div>
      <!-- /.row -->
