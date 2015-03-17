@@ -35,7 +35,6 @@
 	  <form id="contact-form" action="thankyou.php" method="post">
 	    <input type="text" name="name" placeholder="Nimi"><br>
 	    <input type="text" name="email" placeholder="S&auml;hk&ouml;posti"><br>
-	    <input type="text" name="subject" placeholder="Otsikko"><br>
 	    <textarea name="message" cols="" rows="5" placeholder="Viesti"></textarea><br>
             <input type="submit" class="btn btn-primary" value="L&Auml;HET&Auml;" style="text-align:center;width:auto;">
 	  </form>
