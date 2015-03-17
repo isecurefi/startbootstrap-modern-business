@@ -1,11 +1,18 @@
 <!-- Page Content -->
 <div class="container">
   <div class="row"  style="margin-right:auto;margin-left:auto;">
-    <hr>
-    <img src="images/isecure_ws4.jpg" style="width:80%;margin-left:10%;">
-    <hr>
+    <!-- <hr> -->
+    <!-- <img src="images/isecure_ws4.jpg" style="width:80%;margin-left:10%;"><hr> -->
   </div>
   <div class="row">
+     <!-- Page Heading/Breadcrumbs -->
+     <div class="row">
+       <div class="col-xs-12">
+	 <h2 class="">Tarvitsetko ratkaisuja pankkiyhteyksien rakentamiseen?</h2>
+	 <p>Tarjoamme eri kohderyhmille ISECure WS-Kanava:aan perustuvia paketteja:</p>
+       </div>
+     </div>
+     <!-- /.row -->
     <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="panel panel-primary">
         <div class="panel-heading panel-heading-first">

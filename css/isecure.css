@@ -7,12 +7,15 @@ header.carousel {
 
 /* Smartphones (portrait and landscape)  */
 @media only screen and (min-width : 320px) and (max-width : 480px) {
+    /* Overried Carousel settings */
+    header.carousel {
+	height: 100% !important;
+    }
     
 }
 
 /* Smartphones (landscape)  */
 @media only screen and (min-width : 321px) {
-    
 }
 
 /* Smartphones (portrait)  */
@@ -80,6 +83,10 @@ header.carousel {
 
 /* iPhone 6 (landscape)  */
 @media only screen and (min-width: 375px) and (max-height: 667px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2) {
+    /* Overried Carousel settings */
+    header.carousel {
+	height: 100% !important;
+    }
     
 }
 
@@ -90,6 +97,10 @@ header.carousel {
 
 /* iPhone 6+ (landscape)  */
 @media only screen and (min-width: 414px) and (max-height: 736px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2) {
+    /* Overried Carousel settings */
+    header.carousel {
+	height: 100% !important;
+    }
     
 }
 
@@ -100,6 +111,10 @@ header.carousel {
 
 /* Samsung Galaxy S3 (landscape)  */
 @media only screen and (min-width: 320px) and (max-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2) {
+    /* Overried Carousel settings */
+    header.carousel {
+	height: 100% !important;
+    }
     
 }
 
@@ -110,6 +125,10 @@ header.carousel {
 
 /* Samsung Galaxy S4 (landscape)  */
 @media only screen and (min-width: 320px) and (max-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3) {
+    /* Overried Carousel settings */
+    header.carousel {
+	height: 100% !important;
+    }
     
 }
 
@@ -120,6 +139,10 @@ header.carousel {
 
 /* Samsung Galaxy S5 (landscape)  */
 @media only screen and (min-width: 360px) and (max-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3) {
+    /* Overried Carousel settings */
+    header.carousel {
+	height: 100% !important;
+    }
     
 }
 
@@ -141,9 +164,12 @@ header.carousel {
 /* Misc */
 .contact {
     background-color: #2a2a24;
-    color: #888;
+    color: #eee;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+.contact input {
+    color: #888;
 }
 
 .footer {
