@@ -159,6 +159,7 @@
 
     <?php include('contact.php'); ?>
     <hr>
+    <?php include('ws-info.php'); ?>
     <?php include('footer.php'); ?>
     <?php include('end.php'); static_page(); ?>
   </body>

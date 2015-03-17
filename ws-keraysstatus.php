@@ -42,7 +42,7 @@
 		<li>ISECure WS-Kustom
 		<li>Keräyksien reaaliaikainen seuranta SaaS- tai IaaS-kokonaispalveluna
 	      </ul>
-           <a href="#" class="btn btn-primary">Ota Yhteytt&auml;</a><br><br>
+           <a href="#contact" class="btn btn-primary">Ota Yhteytt&auml;</a><br><br>
 
           <img src="images/isecure_kerays_kaikki.jpg" class="customer-img">
 

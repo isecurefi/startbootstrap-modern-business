@@ -22,8 +22,9 @@
 	  
 	  <p>SELECTED / COLLABORATOR  +HOSTED</p>
 	  <img src="images/isecure_header1_b.png" style="width:100%;"><br><br>
-          <a href="ws-kanava.php" class="btn btn-primary">VERTAA PAKETTEJA</a><br><br>
-          <a href="#" class="btn btn-primary">OTA YHTEYTT&Auml;</a>
+          <div style="text-align:center;">
+            <a href="ws-kanava.php" class="btn btn-primary">VERTAA PAKETTEJA</a><br>
+	  </div>
         </div>
       </div>
     </div>
@@ -42,7 +43,9 @@
 	    osaamme pankkiyhteysasiat ja räätälöinnin.</p>
 	  
 	  <img src="images/kustom.png" style="width:100%;"><br><br>
-          <a href="#" class="btn btn-primary">OTA YHTEYTT&Auml;</a>
+          <div style="text-align:center;">
+            <a href="ws-kustom.php" class="btn btn-primary">LUE LIS&Auml;&Auml;</a>
+	  </div>
         </div>
       </div>
     </div>
@@ -61,7 +64,9 @@
 	    WS-Kanavan päälle.</p>
 	  
 	  <img src="images/varainkeruu2.png" style="width:100%;"><br><br>
-          <a href="#" class="btn btn-primary">OTA YHTEYTT&Auml;</a>
+          <div style="text-align:center;">
+            <a href="ws-keraysstatus.php" class="btn btn-primary">LUE LIS&Auml;&Auml;</a>
+	  </div>
         </div>
       </div>
     </div>
