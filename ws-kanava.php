@@ -29,7 +29,7 @@
 	      <p>Tarjoamme testatun ja verifioidun koodin täydellä
 	      lisenssillä kehitys- ja asiakastarpeisiinne.</p>
  
-	      <p><i>"ISECuren WS-kanavalla voi esimerkiksi ladata
+	      <p class="blue-text"><i>"ISECuren WS-kanavalla voi esimerkiksi ladata
 	      automaattisesti konekieliset tiliotteet ja viitesiirrot
 	      ja yhdistää ne korkealaatuisen JavaScript-kirjaston
 	      kanssa interaktiivisten statistiikkojen
@@ -46,7 +46,7 @@
 	      useilla asiakkailla.</p>
             </div>
             <div class="col-md-4">
-	      <p>Selected-paketilla saat valitsemasi pankin WS-kanavan
+	      <p class="blue-text">Selected-paketilla saat valitsemasi pankin WS-kanavan
 	      lähdekoodin, Collaborator-paketilla saat mukaan
 	      päivitykset ja pääset osallistumaan
 	      mm. rajapintakehitykseen toiveidesi mukaan. Voit ostaa

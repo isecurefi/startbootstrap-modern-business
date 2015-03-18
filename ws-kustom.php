@@ -45,7 +45,7 @@
 		  </ul>
 	      </ul>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 blue-text">
 	      <p>Muut lisäpalvelut</p>
 	      <ul>
 		<li>Asiakasrekisterit: Olennainen osa ryhmien

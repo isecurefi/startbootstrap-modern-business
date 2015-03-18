@@ -190,6 +190,10 @@ header.carousel {
     font-color: #999;
 }
 
+.blue-text {
+    color: #0066FF;
+}
+
 .panel-heading-first {
     background-color: #6fa5be !important;
 }

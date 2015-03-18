@@ -47,7 +47,7 @@
           <img src="images/isecure_kerays_kaikki.jpg" class="customer-img">
 
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 blue-text">
 
 	      <p>CASE: Sympatia-keräys</p>
  
