@@ -292,3 +292,7 @@ header.carousel {
     padding-bottom: 5px;
 }
 
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: black;
+}
+
