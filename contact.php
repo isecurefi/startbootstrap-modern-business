@@ -1,12 +1,13 @@
 </div>
 
 <!-- Page Content -->
+<p id="contact"></p>
 <div class="container-fluid contact shadow">
   <div class="container">
     <div class="row contact">
       <div class="col-md-3 col-sm-3 col-xs-12">
         <img src="images/dforsber.png" class="facepalm"><br>
-        <p id="contact">OTA YHTEYTTÄ</p>
+        OTA YHTEYTTÄ<br>
         ISECure Oy<br>
         CEO Dr. Dan Forsberg, CSPO<br>
         dan.forsberg (a) isecure.fi<br>
@@ -36,7 +37,7 @@
 	    <input type="text" name="name" placeholder="Nimi"><br>
 	    <input type="text" name="email" placeholder="S&auml;hk&ouml;posti"><br>
 	    <textarea name="message" cols="" rows="5" placeholder="Viesti"></textarea><br>
-            <input type="submit" class="btn btn-primary" value="L&Auml;HET&Auml;" style="text-align:center;width:auto;">
+            <input type="submit" class="btn btn-primary" value="L&Auml;HET&Auml;" style="text-align:center;width:auto;color:white;">
 	  </form>
 	</p>
       </div>
