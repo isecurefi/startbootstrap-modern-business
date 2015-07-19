@@ -8,6 +8,7 @@
     <?php include('carousel.php'); carousel(1); ?>
     <?php include('supportedbanks-fluid.php'); ?>
     <?php include('frontpage.php'); ?>
+	<?php include('references.php'); ?>
     <?php include('contact.php'); ?>
     <hr>
     <?php include('ws-info.php'); ?>

@@ -58,6 +58,10 @@
         </div>
         <!-- /.row -->
 
+        <!-- References section -->
+	<?php include('references.php'); ?>
+        <!-- /.row -->
+
         <!-- Service Panels -->
         <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
         <div class="row">
