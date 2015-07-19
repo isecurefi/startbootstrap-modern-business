@@ -1,6 +1,6 @@
         <footer>
           <div class="row ">
-            <p style="padding:5px;margin:0px;text-align:left;">Copyright &copy; ISECure Oy 2014</p>
+            <p style="padding:5px;margin:0px;text-align:left;">Copyright &copy; ISECure Oy 2015</p>
           </div>
           <hr>
           <div class="row">
