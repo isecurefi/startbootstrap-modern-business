@@ -20,11 +20,16 @@
                     <li>
                         <a href="ws-kanava.php">WS-kanava</a>
                     </li>
+         <!--
                     <li>
                         <a href="ws-kustom.php">WS-Kustom</a>
                     </li>
+         -->
                     <li>
-                        <a href="ws-keraysstatus.php">WS-Ker&auml;ysStatus</a>
+                        <a href="index.php#references">Referenssit</a>
+                    </li>
+                    <li>
+                        <a href="#contact">Yhteystiedot</a>
                     </li>
                 </ul>
             </div>
