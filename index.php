@@ -8,9 +8,9 @@
     <?php include('carousel.php'); carousel(1); ?>
     <?php include('supportedbanks-fluid.php'); ?>
     <?php include('frontpage.php'); ?>
-	<?php include('references.php'); ?>
     <?php include('contact.php'); ?>
     <hr>
+	<?php include('references.php'); ?>
     <?php include('ws-info.php'); ?>
     <?php include('footer.php'); ?>
     <?php include('end.php'); dynamic(); ?>

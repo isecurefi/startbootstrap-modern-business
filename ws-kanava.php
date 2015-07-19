@@ -58,9 +58,9 @@
         </div>
         <!-- /.row -->
 
-        <!-- References section -->
-	<?php include('references.php'); ?>
-        <!-- /.row -->
+	<h3>Tuetut pankit</h3>
+	<?php include('banks.php'); ?>
+	<br>
 
         <!-- Service Panels -->
         <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
@@ -127,6 +127,7 @@
             </div>
         </div>
 
+
         <!-- Service Tabs -->
 	<!--
         <div class="row">
@@ -163,6 +164,7 @@
 
     <?php include('contact.php'); ?>
     <hr>
+    <?php include('references.php'); ?>
     <?php include('ws-info.php'); ?>
     <?php include('footer.php'); ?>
     <?php include('end.php'); static_page(); ?>

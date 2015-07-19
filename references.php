@@ -6,12 +6,12 @@
   </div>
 <div class="row">
   <div class="col-md-12">
-    <h4>Referenssit</h4>
+    <h3>Referenssit</h3>
     <center>
-      <img src="images/references/secureaction.png" style="">&nbsp;&nbsp;
-      <img src="images/references/fennoa.png" style="">&nbsp;&nbsp;
-      <img src="images/references/fortnox-logo-black.png" style="">&nbsp;&nbsp;
-      <img src="images/references/hostingpalvelu.png" style=""><br><br>
+      <img src="images/references/fennoa.png" class="reference">
+      <img src="images/references/fortnox-logo-black.png" class="reference">
+      <img src="images/references/hostingpalvelu.png" class="reference">
+      <img src="images/references/secureaction.png" class="reference">
     </center>
   </div>
 </div>

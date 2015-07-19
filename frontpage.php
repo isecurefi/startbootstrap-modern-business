@@ -24,7 +24,7 @@
 	  
 	  <p>Kun tarvitset liikeideaasi tai
 	    asiakasprojektiasi varten pankki-yhteyskanavan
-	    tai haluat automa-tisoida pankkiaineistojen
+	    tai haluat automatisoida pankkiaineistojen
 	    käsittelyä.</p>
 	  
 	  <p>SELECTED / COLLABORATOR  +HOSTED</p>
@@ -78,6 +78,10 @@
       </div>
     </div>
   </div>
+  <h3>Tuetut pankit</h3>
+  <p>Tuemme kaikkia Suomessa yleisimmin toimivia pankkeja.</p>
+  <?php include('banks.php'); ?>
+  <br>
   <!-- /.row -->
 </div>
 <!-- /.container -->
