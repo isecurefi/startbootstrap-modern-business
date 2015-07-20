@@ -72,7 +72,7 @@
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h4>SELECTED CODE</h4>
-                        <p>VALITTUJEN PANKKIEN<br> WS-KANAVIEN KOODI</p>
+                        <p>VALITTUJEN PANKKIEN<br> WS-KANAVIEN KOODI</p><img src="images/phplogo.png" style="width:65px;">&nbsp;<img src="images/linux.png" style="">
                     </div>
                     <div class="panel-body">
 			<ul>
@@ -90,7 +90,7 @@
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h4>DEVELOPER ACCESS</h4>
-			<p>KAIKKIEN&nbsp;PANKKIEN WS-KANAVAT<br>+ GITHUB + TUKIPALVELU</p>
+			<p>KAIKKIEN&nbsp;PANKKIEN WS-KANAVAT<br>+ GITHUB + TUKIPALVELU</p><img src="images/github.png" style="width:40px;">&nbsp;&nbsp;<img src="images/semaphore.png" style="height:57px;">
                     </div>
                     <div class="panel-body">
  			<ul>
@@ -112,7 +112,7 @@
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h4>+&nbsp;HOSTING</h4>
-                        <p>WS-KANAVAT<br> PILVIPALVELUNA</p>
+                        <p>WS-KANAVAT<br> PILVIPALVELUNA</p><img src="images/awslogo.png">
                     </div>
                     <div class="panel-body">
 			<ul>

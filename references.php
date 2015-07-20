@@ -1,9 +1,5 @@
 <div class="container">
-  <p id="references"></p>
-  <div class="row"  style="margin-right:auto;margin-left:auto;">
-    <!-- <hr> -->
-    <!-- <img src="images/isecure_ws4.jpg" style="width:80%;margin-left:10%;"><hr> -->
-  </div>
+<p id="references"></p>
 <div class="row">
   <div class="col-md-12">
     <h3>Referenssit</h3>

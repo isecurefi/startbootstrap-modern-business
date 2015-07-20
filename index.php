@@ -11,6 +11,8 @@
     <?php include('contact.php'); ?>
     <hr>
 	<?php include('references.php'); ?>
+    <hr>
+    <br>
     <?php include('ws-info.php'); ?>
     <?php include('footer.php'); ?>
     <?php include('end.php'); dynamic(); ?>
