@@ -6,6 +6,7 @@
     <center>
       <img src="images/references/fennoa.png" class="reference">
       <img src="images/references/fortnox-logo-black.png" class="reference">
+      <img src="images/references/graphia-logo.jpg" class="reference">
       <img src="images/references/hostingpalvelu.png" class="reference">
       <img src="images/references/secureaction.png" class="reference">
     </center>
