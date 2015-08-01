@@ -4,11 +4,11 @@
   <div class="col-md-12">
     <h3>Referenssit</h3>
     <center>
-      <img src="images/references/fennoa.png" class="reference">
-      <img src="images/references/fortnox-logo-black.png" class="reference">
-      <img src="images/references/graphia-logo.jpg" class="reference">
-      <img src="images/references/hostingpalvelu.png" class="reference">
-      <img src="images/references/secureaction.png" class="reference">
+      <a href="http://www.fennoa.fi/"><img src="images/references/fennoa.png" class="reference"></a>
+      <a href="http://www.fortnox.fi/"><img src="images/references/fortnox-logo-black.png" class="reference"></a>
+      <a href="http://www.graphia.fi/"><img src="images/references/graphia-logo.jpg" class="reference"></a>
+      <a href="http://www.hostingpalvelu.fi/"><img src="images/references/hostingpalvelu.png" class="reference"></a>
+      <a href="http://www.secureaction.fi/"><img src="images/references/secureaction.png" class="reference"></a>
     </center>
   </div>
 </div>
