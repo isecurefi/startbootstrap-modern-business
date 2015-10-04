@@ -1,5 +1,6 @@
+<?php include('lang.php'); ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php global $lang; echo htmlentities($lang); ?>">
   <head>
     <?php include('header.php'); ?>
   </head>

@@ -1,3 +1,7 @@
 *~
 ws-channel
 web.tar.bz2
+composer.phar
+composer.lock
+phpunit.phar
+vendor/

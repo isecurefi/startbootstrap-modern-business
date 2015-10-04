@@ -18,20 +18,7 @@
         Y-tunnus: 2296336-9<br><br>
       </div>
       <div class="col-md-9 col-sm-9 col-xs-12">
-        <p> ISECure Oy on ohjelmistokehittäjä Dan Forsbergin
-          perustama yritys, joka tarjoaa Web Service
-          –pankkiyhteyden verifioitua koodia ja
-          räätälöintipalveluita yrityksille, järjestöille ja
-          yhdistyksille. Forsberg on toiminut
-          asiantuntijatehtävissä mobiiliverkostojen,
-          tietoturvan, telecomin, talouden ja
-          ohjelmistokehittämisen parissa. Hän johti
-          tutkimushankkeita Nokia Research Centerissä 10 vuoden
-          ajan, josta siirtyi Poplatek Oy:öön
-          kehitysjohtajaksi. Forsbergin erikoisosaamista ovat
-          EMV-systeemit, PCI DSS sekä PA DSS
-          –turvallisuussuunnittelu sekä AWS-pilvipalvelut.
-	</p>
+        <p><?php get_text('contact'); ?></p>
 	<p class="contact">
 	  <form id="contact-form" action="thankyou.php" method="post">
 	    <input type="text" name="name" placeholder="Nimi"><br>
