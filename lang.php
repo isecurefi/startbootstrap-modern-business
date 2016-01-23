@@ -3,11 +3,11 @@ require('vendor/autoload.php');
 
 use Symfony\Component\Yaml\Exception\ParseException;
 use Symfony\Component\Yaml\Parser;
-//var_dump($texts);
 
 function get_text($id)
 {
     global $lang;
+    $lang = "fi"; // se not yet ready
 
     if ($lang != "fi" ||
         $lang != "se") {

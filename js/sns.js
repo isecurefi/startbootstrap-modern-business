@@ -19,6 +19,7 @@ function SendSNS(msg, from, result)
         if (!err) {
             console.log('Message published');
             result.innerHTML = "<b>Message sent!";
+            window.location = "thankyou.php";
         } else {
             console.log('Message NOT published');
             console.log(err, err.stack);
