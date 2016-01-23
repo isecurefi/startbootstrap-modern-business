@@ -20,12 +20,21 @@
       <div class="col-md-9 col-sm-9 col-xs-12">
         <p><?php get_text('contact'); ?></p>
 	<p class="contact">
-	  <form id="contact-form" action="thankyou.php" method="post">
-	    <input type="text" name="name" placeholder="Nimi"><br>
-	    <input type="text" name="email" placeholder="S&auml;hk&ouml;posti"><br>
-	    <textarea name="message" cols="" rows="5" placeholder="Viesti"></textarea><br>
-            <input type="submit" class="btn btn-primary" value="L&Auml;HET&Auml;" style="text-align:center;width:auto;color:white;">
-	  </form>
+
+	  <!-- redirect to: thankyou.php -->
+	  <input type="text" id="name"  placeholder="Nimi"><br>
+	  <input type="text" id="email" placeholder="S&auml;hk&ouml;posti"><br>
+	  <textarea id="message" cols="" rows="5" placeholder="Viesti">
+          </textarea><br>
+          <button class="btn btn-primary"
+                  style="text-align:center;width:auto;color:white;"
+                  onclick="SendSNS(document.getElementById('message').value,
+                           document.getElementById('name').value+' '+
+                           document.getElementById('email').value,
+                           document.getElementById('result'));">L&Auml;HET&Auml;
+          </button><br>
+          <p id="result"></p>
+          
 	</p>
       </div>
     </div>
