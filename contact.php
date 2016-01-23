@@ -1,3 +1,4 @@
+<?php include_once('lang.php'); ?>
 </div>
 
 <!-- Page Content -->
@@ -24,14 +25,14 @@
 	  <!-- redirect to: thankyou.php -->
 	  <input type="text" id="name"  placeholder="Nimi"><br>
 	  <input type="text" id="email" placeholder="S&auml;hk&ouml;posti"><br>
-	  <textarea id="message" cols="" rows="5" placeholder="Viesti">
-          </textarea><br>
+	  <textarea id="message" cols="" rows="5" placeholder="Viesti"></textarea><br>
           <button class="btn btn-primary"
                   style="text-align:center;width:auto;color:white;"
                   onclick="SendSNS(document.getElementById('message').value,
-                           document.getElementById('name').value+' '+
+                           document.getElementById('name').value,
                            document.getElementById('email').value,
-                           document.getElementById('result'));">L&Auml;HET&Auml;
+                           document.getElementById('result'),
+                           'thankyou.php');">L&Auml;HET&Auml;
           </button><br>
           <p id="result"></p>
           

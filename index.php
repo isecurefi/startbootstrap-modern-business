@@ -1,4 +1,4 @@
-<?php include('lang.php'); ?>
+<?php include_once('lang.php'); ?>
 <!DOCTYPE html>
 <html lang="<?php global $lang; echo htmlentities($lang); ?>">
   <head>

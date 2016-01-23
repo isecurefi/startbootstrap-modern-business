@@ -24,5 +24,5 @@ function get_text($id)
 
     $change = ['ä','ö','å','Ä','Ö','Å'];
     $to = ['&auml;','&ouml;','&aring;','&Auml;','&Ouml;','&Aring;']; 
-    return str_replace($change, $to, $texts['texts'][$id][$lang]);
+    print str_replace($change, $to, $texts['texts'][$id][$lang]);
 }
