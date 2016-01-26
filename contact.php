@@ -1,3 +1,4 @@
+<?php include_once('lang.php'); ?>
 </div>
 
 <!-- Page Content -->
@@ -18,27 +19,23 @@
         Y-tunnus: 2296336-9<br><br>
       </div>
       <div class="col-md-9 col-sm-9 col-xs-12">
-        <p> ISECure Oy on ohjelmistokehittäjä Dan Forsbergin
-          perustama yritys, joka tarjoaa Web Service
-          –pankkiyhteyden verifioitua koodia ja
-          räätälöintipalveluita yrityksille, järjestöille ja
-          yhdistyksille. Forsberg on toiminut
-          asiantuntijatehtävissä mobiiliverkostojen,
-          tietoturvan, telecomin, talouden ja
-          ohjelmistokehittämisen parissa. Hän johti
-          tutkimushankkeita Nokia Research Centerissä 10 vuoden
-          ajan, josta siirtyi Poplatek Oy:öön
-          kehitysjohtajaksi. Forsbergin erikoisosaamista ovat
-          EMV-systeemit, PCI DSS sekä PA DSS
-          –turvallisuussuunnittelu sekä AWS-pilvipalvelut.
-	</p>
+        <p><?php get_text('contact'); ?></p>
 	<p class="contact">
-	  <form id="contact-form" action="thankyou.php" method="post">
-	    <input type="text" name="name" placeholder="Nimi"><br>
-	    <input type="text" name="email" placeholder="S&auml;hk&ouml;posti"><br>
-	    <textarea name="message" cols="" rows="5" placeholder="Viesti"></textarea><br>
-            <input type="submit" class="btn btn-primary" value="L&Auml;HET&Auml;" style="text-align:center;width:auto;color:white;">
-	  </form>
+
+	  <!-- redirect to: thankyou.php -->
+	  <input type="text" id="name"  placeholder="Nimi"><br>
+	  <input type="text" id="email" placeholder="S&auml;hk&ouml;posti"><br>
+	  <textarea id="message" cols="" rows="5" placeholder="Viesti"></textarea><br>
+          <button class="btn btn-primary"
+                  style="text-align:center;width:auto;color:white;"
+                  onclick="SendSNS(document.getElementById('message').value,
+                           document.getElementById('name').value,
+                           document.getElementById('email').value,
+                           document.getElementById('result'),
+                           'thankyou.php');">L&Auml;HET&Auml;
+          </button><br>
+          <p id="result"></p>
+          
 	</p>
       </div>
     </div>
