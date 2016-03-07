@@ -9,6 +9,7 @@
       <a href="http://www.graphia.fi/"><img src="images/references/graphia-logo.jpg" class="reference"></a>
       <a href="http://www.hostingpalvelu.fi/"><img src="images/references/hostingpalvelu.png" class="reference"></a>
       <a href="http://www.secureaction.fi/"><img src="images/references/secureaction.png" class="reference"></a>
+      <a href="http://www.joutsenrahoitus.fi/"><img src="images/references/joutsen-rahoitus.png" class="reference"></a>
     </center>
   </div>
 </div>
