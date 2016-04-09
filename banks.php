@@ -11,7 +11,7 @@
       <img src="images/bank_icons/pop_logo.gif" class="bank-icon">
       <img src="images/bank_icons/sampo_logo.gif" class="bank-icon">
       <img src="images/bank_icons/spankki_lahitapiola.png" class="bank-icon">
-      <img src="images/bank_icons/SEBlog.png" class="bank-icon">
+      <img src="images/bank_icons/SEBlogo.png" class="bank-icon">
     </center>
   </div>
 </div>
