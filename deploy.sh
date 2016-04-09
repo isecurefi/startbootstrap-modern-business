@@ -9,3 +9,5 @@ aws s3 cp --recursive images s3://www2.isecure.fi/images/
 aws s3 cp --recursive css s3://www2.isecure.fi/css/
 aws s3 cp --recursive font-awesome s3://www2.isecure.fi/font-awesome/
 
+scp -r js images css font-awesome isecure.fi:/var/www/isecure.fi-SSL/
+
