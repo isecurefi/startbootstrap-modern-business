@@ -91,7 +91,7 @@
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h4>DEVELOPER ACCESS</h4>
-			<p>KAIKKIEN&nbsp;PANKKIEN WS-KANAVAT<br>+ GITHUB + TUKIPALVELU</p><img src="images/github.png" style="width:40px;">&nbsp;&nbsp;<img src="images/semaphore.png" style="height:57px;">
+			<p>KAIKKIEN&nbsp;PANKKIEN WS-KANAVAT<br>+ GITHUB + TUKIPALVELU</p><img src="images/github.png" style="width:40px;">&nbsp;
                     </div>
                     <div class="panel-body">
  			<ul>
