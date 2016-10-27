@@ -117,10 +117,12 @@
                     </div>
                     <div class="panel-body">
 			<ul>
-			  <li>WS-kanava valitsemillesi pankeille Amazon AWS -pilvipalvelussa
-			  <li>Amazon AWS KMS avaintenhallintaan perustuva sertifikaattien suojaus
-			  <li>Automaattiset tietoturva- ja korjauspäivitykset
-			  <li>Formaattimuunnokset, esim. JSON
+			  <li>Globaalisti skaalautuva turvallinen WS-kanava valitsemillesi pankeille (AWS API Gateway, Lambda, KMS, Cognito, DynamoDB, jne.)
+			  <li>Amazon AWS KMS avaintenhallintaan perustuva sertifikaattien salaisen avaimen suojaus
+			  <li>Swagger REST API kuvaus (JSON data) ja valmis testiympäristö integraatiota varten, integraatio yhdessä päivässä
+              <li>Automaattinen sertifikaattien uusinta
+			  <li>Automaattiset tietoturva- ja korjauspäivitykset (huom palveliton ympäristö AWS Lambdalla)
+              <li>Kaksitasoinen käyttäjätunnus (luku ja luku+kirjoitus SMS MFA:lla), mahdollisuus myös GPG allekirjoituksille (n allekirjoitusta m:stä maksujen hyväksyntää varten)
 			</ul>
                         <a href="#contact" class="btn btn-primary">Kysy Lis&auml;&auml;</a>
                     </div>
