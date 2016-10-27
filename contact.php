@@ -14,8 +14,8 @@
         dan.forsberg (a) isecure.fi<br>
         +358 40 483 5507<br>
         <br>
-        Melkonkatu 7 A 33<br>
-        00210 Helsinki, Finland<br>
+        Silmukuja 5<br>
+        04620 Mäntsälä, Finland<br>
         Y-tunnus: 2296336-9<br><br>
       </div>
       <div class="col-md-9 col-sm-9 col-xs-12">
