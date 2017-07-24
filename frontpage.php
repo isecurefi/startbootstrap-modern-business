@@ -38,41 +38,22 @@
     <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="panel panel-primary">
         <div class="panel-heading panel-heading-second">
-          <h2 class="panel-title">YRITYKSILLE<br><br>ISECure WS-Kustom</h2>
+          <h2 class="panel-title">API<br><br>ISECure WS-Kanava API</h2>
         </div>
         <div class="panel-body">
-	  <p>WS-KANAVAN INTEGROINTIPALVELUA,
-	    PANKKIAINEISTOJEN FORMAATTIMUUNNOKSIA JA MUUTA
-	    KONSULTOINTIA YRITYKSILLE</p>
+          <p>WS-KANAVA API (REST), SWAGGER KUVAUS JA WSCLI KOMENTORIVITY&Ouml;KALU</p>
 	  
-	  <p>Olet suunnittelemassa omaa palvelua ja
-	    tarvitset teknistä apua WS-Kanavan käytössä. Me
-	    osaamme pankkiyhteysasiat ja räätälöinnin.</p>
+	      <p>Oletko kehittämässä omaa palvelua tai tuotetta, jossa
+	        hyödynnät WS-kanavaa? Tarjoamme kilpailukykyiseen
+	        hintaan WS-Kanavan SaaS palveluna.</p>
+              
+              <p>Palvelumme käyttää mm. AWS:n API Gateway, Dynamo DB,
+	        Cognito Your User Pool, CloudWatch ja Lambda
+	        palveluita ja skaalautuu tarpeidesi mukaan.</p>
 	  
 	  <img src="images/kustom.png" style="width:100%;"><br><br>
           <div style="text-align:center;">
-            <a href="ws-kustom.php" class="btn btn-primary">LUE LIS&Auml;&Auml;</a>
-	  </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-4 col-sm-4 col-xs-12">
-      <div class="panel panel-primary">
-        <div class="panel-heading panel-heading-third">
-          <h3 class="panel-title">J&Auml;RJEST&Ouml;ILLE<br><br>ISECure Ker&auml;ysStatus</h3>
-        </div>
-        <div class="panel-body">
-	  <p>VERKKOPALVELU HYVÄNTEKEVÄISYYS- JA
-	    VARAINKERÄYKSILLE</p>
-	  
-	  <p>KeräysStatus-palvelu tekee käteis- ja
-	    verkkomaksukeräyksistä helpompaa, hallitumpaa ja
-	    paremmin seurattavaa. Se rakentuu ISECuren
-	    WS-Kanavan päälle.</p>
-	  
-	  <img src="images/varainkeruu2.png" style="width:100%;"><br><br>
-          <div style="text-align:center;">
-            <a href="ws-keraysstatus.php" class="btn btn-primary">LUE LIS&Auml;&Auml;</a>
+            <a href="ws-api.php" class="btn btn-primary">LUE LIS&Auml;&Auml;</a>
 	  </div>
         </div>
       </div>
