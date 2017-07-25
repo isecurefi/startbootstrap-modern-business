@@ -27,7 +27,7 @@
 	    tai haluat automatisoida pankkiaineistojen
 	    käsittelyä.</p>
 	  
-	  <p>SELECTED / COLLABORATOR  +HOSTED</p>
+	  <p>SELECTED / COLLABORATOR / SAAS</p>
 	  <img src="images/isecure_header1_b.png" style="width:100%;"><br><br>
           <div style="text-align:center;">
             <a href="ws-kanava.php" class="btn btn-primary">VERTAA PAKETTEJA</a><br>

@@ -112,7 +112,7 @@
             <div class="col-md-4 col-md-7">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
-                        <h4>+&nbsp;HOSTING</h4>
+                        <h4>SAAS</h4>
                         <p>WS-KANAVAT<br> PILVIPALVELUNA</p><img src="images/awslogo.png">
                     </div>
                     <div class="panel-body">
@@ -155,7 +155,7 @@
                         <h4>DEVELOPER ACCESS</h4>
                     </div>
                     <div class="tab-pane fade" id="service-three">
-                        <h4>+HOSTING</h4>
+                        <h4>SAAS</h4>
                     </div>
                 </div>
 
