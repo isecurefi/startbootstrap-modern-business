@@ -30,7 +30,7 @@
 	        hintaan WS-Kanavan SaaS palveluna.</p>
               
               <p>Palvelumme käyttää mm. AWS:n API Gateway, Dynamo DB,
-	        Cognito Your User Pool, CloudWatch ja Lambda
+                Cognito Your User Pool, KMS, IAM, CloudWatch ja Lambda
 	        palveluita ja skaalautuu tarpeidesi mukaan.</p>
 
 	      <ul>
