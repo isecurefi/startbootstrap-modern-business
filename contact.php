@@ -10,7 +10,7 @@
         <img src="images/dforsber.png" class="facepalm"><br>
         OTA YHTEYTTÄ<br>
         ISECure Oy<br>
-        CEO Dr. Dan Forsberg, CSPO<br>
+        CEO Dr. Dan Forsberg, AWS CSA, CSPO<br>
         dan.forsberg (a) isecure.fi<br>
         +358 40 483 5507<br>
         <br>
