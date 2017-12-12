@@ -5,7 +5,7 @@
     <h3>Referenssit</h3>
     <center>
       <a href="http://www.fennoa.com/"><img src="images/references/fennoa.png" class="reference"></a>
-      <a href="http://www.briox.fi/"><img src="images/references/briox.svg" class="reference" style="width:30%;></a>
+      <a href="http://www.briox.fi/"><img src="images/references/briox.svg" class="reference" style="width:30%;"></a>
       <a href="http://www.graphia.fi/"><img src="images/references/graphia-logo.jpg" class="reference"></a>
       <a href="http://www.hostingpalvelu.fi/"><img src="images/references/hostingpalvelu.png" class="reference"></a>
       <a href="http://www.secureaction.fi/"><img src="images/references/secureaction.png" class="reference"></a>
