@@ -16,7 +16,7 @@ function carousel($pageNum)
       <div class="carousel-caption col-xs-10 col-sm-6 col-md-4">
         <h1>WS-Kanava</h1>
 	<h3>Kun tarvitset liikeideaasi tai asiakas-projektiasi varten pankkiyhteyskanavan tai haluat automatisoida pankkiaineistojen käsittelyä</h3>
-        <a href="#ws-kanava" class="btn btn-primary">Mik&auml; WS-Kanava?</a><br><br>
+        <a href="ws-api.php" class="btn btn-primary">WS-Kanava API</a><br><br>
       </div>
     </div>
 

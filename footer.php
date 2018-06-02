@@ -18,7 +18,7 @@
             </div>
             <div class="col-xs-6 col-sm-4 footer-col">
 	      <p>
-		Helsinki, Finland<br>
+		Finland<br>
 		Y-tunnus: 2296336-9<br>
 		<a href="http://www.facebook.com/isecure.fi">
 		  <img src="images/facebook-icon.png"><br>facebook.com/­isecure.fi<br>
