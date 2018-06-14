@@ -1,6 +1,6 @@
         <footer>
           <div class="row ">
-            <p style="padding:5px;margin:0px;text-align:left;">Copyright &copy; ISECure Oy 2016</p>
+            <p style="padding:5px;margin:0px;text-align:left;">Copyright &copy; ISECure Oy 2018</p>
           </div>
           <hr>
           <div class="row">
@@ -10,7 +10,7 @@
             </div>
             <div class="col-xs-6 col-sm-4 footer-col">
 	      <p>
-		CEO Dr. Dan Forsberg, CSPO<br>
+		CEO Dr. Dan Forsberg, AWS SA Prof.<br>
 		<b>ISECure Oy</b><br>
 		dan.forsberg (a) isecure.fi<br>
 		+358 40 483 5507
