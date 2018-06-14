@@ -10,12 +10,11 @@
         <img src="images/dforsber.png" class="facepalm"><br>
         OTA YHTEYTTÄ<br>
         ISECure Oy<br>
-        CEO Dr. Dan Forsberg, AWS CSA, CSPO<br>
+        CEO Dr. Dan Forsberg, AWS SA Prof, AWS Sec.Spec., AWS Dev Assoc, CSPO<br>
         dan.forsberg (a) isecure.fi<br>
-        +358 40 483 5507<br>
         <br>
-        Silmukuja 5<br>
-        04620 Mäntsälä, Finland<br>
+        Kokkola, Finland<br>
+        <br>
         Y-tunnus: 2296336-9<br><br>
       </div>
       <div class="col-md-9 col-sm-9 col-xs-12">
