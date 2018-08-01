@@ -8,12 +8,19 @@
     <div class="row contact">
       <div class="col-md-3 col-sm-3 col-xs-12">
         <img src="images/dforsber.png" class="facepalm"><br>
-        OTA YHTEYTTÄ<br>
-        ISECure Oy<br>
-        CEO Dr. Dan Forsberg, AWS SA Prof, AWS Sec.Spec., AWS Dev Assoc, CSPO<br>
-        dan.forsberg (a) isecure.fi<br>
+        Founder Dan Forsberg, D.Sc.<br>
+        <i>dan.forsberg@isecure.fi</i><br>
         <br>
-        Kokkola, Finland<br>
+            <img src="images/AWS_SAP.png" class="awslogos">
+            <img src="images/AWS_SS.png" class="awslogos">
+            <img src="images/AWS_BD.png" class="awslogos"><br>
+            <img src="images/AWS_DA.png" class="awslogos">
+            <img src="images/AWS_SAA.png" class="awslogos">
+            <img src="images/AWS_SOA.png" class="awslogos">
+        <br>
+        <br>
+        +358 40 483 5507 (Finland)<br>
+        +44 7383 505 416 (UK)<br>
         <br>
         Y-tunnus: 2296336-9<br><br>
       </div>
@@ -34,7 +41,6 @@
                            'thankyou.php');">L&Auml;HET&Auml;
           </button><br>
           <p id="result"></p>
-          
 	</p>
       </div>
     </div>
