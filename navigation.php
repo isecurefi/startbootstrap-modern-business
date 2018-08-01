@@ -15,13 +15,13 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-		      <a href="index.php">Etusivu</a>
+                        <a href="index.php">Etusivu</a>
                     </li>
                     <li>
-                        <a href="ws-kanava.php">WS-kanava</a>
+                        <a href="ws-kanava.html">WS-kanava</a>
                     </li>
                     <li>
-                        <a href="index.php#references">Referenssit</a>
+                        <a href="ws-api.html">API</a>
                     </li>
                     <li>
                         <a href="#contact">Yhteystiedot</a>
