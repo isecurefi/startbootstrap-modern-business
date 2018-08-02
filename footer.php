@@ -5,8 +5,8 @@
           <div class="row footer2">
           <br>
           <div class="col-xs-12 col-sm-4 footer-col">
-	    <img src="images/isecure-small-logo.png" style="width:80%;"><br>
-	    <p><a href="https://www.isecure.fi/">https://www.isecure.fi/</a></p>
+	    <a href="https://www.isecure.fi/">
+               <img src="images/isecure-small-logo.png" style="width:80%;"></a>
             </div>
             <div class="col-xs-6 col-sm-4">
 	      <p>
@@ -24,10 +24,13 @@
             </div>
             <div class="col-xs-6 col-sm-4">
 	      <p>
-		Kokkola/Finland<br>
-		Y-tunnus: 2296336-9<br>
-		<a href="http://www.facebook.com/isecure.fi">
-		  <img src="images/facebook-icon.png"><br>facebook.com/­isecure.fi<br>
+        London/UK<br>
+		Finland (Y-tunnus: 2296336-9)<br><br>
+		<a href="https://twitter.com/isecurefi">
+		  <img src="images/twitter.png" class="soclogo">
+		</a>
+		<a href="https://www.linkedin.com/in/danforsberg/" class="soclogo">
+		  <img src="images/linkedin.png" class="soclogo">
 		</a>
 	      </p>
             </div>
