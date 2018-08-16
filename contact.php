@@ -12,8 +12,9 @@
         <i>dan.forsberg@isecure.fi</i><br>
         <br>
             <img src="images/AWS_SAP.png" class="awslogos">
+            <img src="images/AWS_DOP.png" class="awslogos">
             <img src="images/AWS_SS.png" class="awslogos">
-            <img src="images/AWS_BD.png" class="awslogos"><br>
+            <img src="images/AWS_BD.png" class="awslogos">
             <img src="images/AWS_DA.png" class="awslogos">
             <img src="images/AWS_SAA.png" class="awslogos">
             <img src="images/AWS_SOA.png" class="awslogos">

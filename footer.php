@@ -15,6 +15,7 @@
         +358 40 483 5507 (Finland)<br>
         +44 7383 505 416 (UK)<br>
             <img src="images/AWS_SAP.png" class="awslogos2">
+            <img src="images/AWS_DOP.png" class="awslogos2">
             <img src="images/AWS_SS.png" class="awslogos2">
             <img src="images/AWS_BD.png" class="awslogos2">
             <img src="images/AWS_DA.png" class="awslogos2">
