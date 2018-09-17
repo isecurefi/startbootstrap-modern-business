@@ -11,6 +11,7 @@
       <a href="http://www.secureaction.fi/"><img src="images/references/secureaction.png" class="reference"></a>
       <a href="http://www.joutsenrahoitus.fi/"><img src="images/references/joutsen-rahoitus.png" class="reference"></a>
       <a href="http://www.talokeskus.fi/"><img src="images/references/talokeskus.jpg" class="reference"></a>
+      <a href="https://www.linkedin.com/in/ismojokitalo/"><img src="images/references/acFakta.png" class="reference"></a>
     </center>
   </div>
 </div>

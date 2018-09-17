@@ -15,9 +15,11 @@
             <img src="images/AWS_DOP.png" class="awslogos">
             <img src="images/AWS_SS.png" class="awslogos">
             <img src="images/AWS_BD.png" class="awslogos">
+            <img src="images/AWS_NS.png" class="awslogos">
             <img src="images/AWS_DA.png" class="awslogos">
             <img src="images/AWS_SAA.png" class="awslogos">
             <img src="images/AWS_SOA.png" class="awslogos">
+            <img src="images/AWS_CP.png" class="awslogos">
         <br>
         <br>
         +358 40 483 5507 (Finland)<br>

@@ -18,9 +18,11 @@
             <img src="images/AWS_DOP.png" class="awslogos2">
             <img src="images/AWS_SS.png" class="awslogos2">
             <img src="images/AWS_BD.png" class="awslogos2">
+            <img src="images/AWS_NS.png" class="awslogos2"><br>
             <img src="images/AWS_DA.png" class="awslogos2">
             <img src="images/AWS_SAA.png" class="awslogos2">
             <img src="images/AWS_SOA.png" class="awslogos2">
+            <img src="images/AWS_CP.png" class="awslogos2">
 	      </p>
             </div>
             <div class="col-xs-6 col-sm-4">
