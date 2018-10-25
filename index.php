@@ -3,6 +3,7 @@
 <html lang="<?php global $lang; echo htmlentities($lang); ?>">
   <head>
     <?php include('header.php'); ?>
+    <link rel="canonical" href="https://www.isecure.fi/index.html">
   </head>
   <body>
     <?php include('navigation.php'); ?>

@@ -13,7 +13,7 @@
         Founder Dan Forsberg, D.Sc.<br>
 		<i>dan.forsberg@isecure.fi</i><br>
         +358 40 483 5507 (Finland)<br>
-        +44 7383 505 416 (UK)<br>
+        +44 7391 228 338 (UK)<br>
             <img src="images/AWS_SAP.png" class="awslogos2">
             <img src="images/AWS_DOP.png" class="awslogos2">
             <img src="images/AWS_SS.png" class="awslogos2">

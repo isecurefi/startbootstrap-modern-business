@@ -3,6 +3,7 @@
 <html lang="en">
   <head>
     <?php include('header.php'); ?> 
+    <link rel="canonical" href="https://www.isecure.fi/ws-kanava.html">
   </head>
   <body>
     <?php include('navigation.php'); ?>
