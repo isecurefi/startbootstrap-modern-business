@@ -4,8 +4,6 @@
 <meta name="description" content="ISECure Oy">
 <meta name="author" content="ISECure Oy">
 
-<title>ISECure Oy</title>
-
 <!-- Bootstrap Core CSS -->
 <link href="css/bootstrap.css" rel="stylesheet">
 

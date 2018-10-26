@@ -3,6 +3,7 @@
 <html lang="en">
   <head>
     <?php include('header.php'); ?> 
+    <title>ISECure Oy - WS Kanava</title>
     <link rel="canonical" href="https://www.isecure.fi/ws-kanava.html">
   </head>
   <body>

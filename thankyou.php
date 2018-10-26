@@ -3,6 +3,7 @@
 <html lang="en">
   <head>
     <?php include('header.php'); ?>
+    <title>ISECure Oy - Thankyou</title>
     <link rel="canonical" href="https://www.isecure.fi/thankyou.html">
   </head>
   <body>

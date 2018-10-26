@@ -3,6 +3,7 @@
 <html lang="<?php global $lang; echo htmlentities($lang); ?>">
   <head>
     <?php include('header.php'); ?>
+    <title>ISECure Oy</title>
     <link rel="canonical" href="https://www.isecure.fi/index.html">
   </head>
   <body>

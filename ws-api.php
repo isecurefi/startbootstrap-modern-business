@@ -3,6 +3,7 @@
 <html lang="en">
   <head>
     <?php include('header.php'); ?> 
+    <title>ISECure Oy - API</title>
     <link rel="canonical" href="https://www.isecure.fi/ws-api.html">
   </head>
   <body>
