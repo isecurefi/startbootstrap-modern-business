@@ -4,6 +4,7 @@
   <head>
     <?php include('header.php'); ?>
     <title>ISECure Oy</title>
+    <meta name="description" content="ISECure Oy">
     <link rel="canonical" href="https://www.isecure.fi/index.html">
   </head>
   <body>

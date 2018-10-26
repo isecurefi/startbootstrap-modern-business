@@ -4,6 +4,7 @@
   <head>
     <?php include('header.php'); ?> 
     <title>ISECure Oy - API</title>
+    <meta name="description" content="ISECure Oy - API">
     <link rel="canonical" href="https://www.isecure.fi/ws-api.html">
   </head>
   <body>
