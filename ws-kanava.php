@@ -4,7 +4,7 @@
   <head>
     <?php include('header.php'); ?> 
     <title>ISECure Oy - WS Kanava</title>
-    <meta name="description" content="ISECure Oy - WS Kanava">
+    <meta name="description" content="ISECure Oy - Information about WS Kanava software packages">
     <link rel="canonical" href="https://www.isecure.fi/ws-kanava.html">
   </head>
   <body>
