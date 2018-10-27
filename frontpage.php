@@ -8,7 +8,7 @@
      <!-- Page Heading/Breadcrumbs -->
      <div class="row">
        <div class="col-xs-12">
-	 <h2 class="">Tarvitsetko ratkaisuja pankkiyhteyksien rakentamiseen?</h2>
+	 <h1 class="">Tarvitsetko ratkaisuja pankkiyhteyksien rakentamiseen?</h1>
 	 <p>Tarjoamme ISECure WS-Kanava:aan perustuvia paketteja:</p>
        </div>
      </div>
