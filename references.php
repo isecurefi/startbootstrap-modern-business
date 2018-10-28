@@ -4,14 +4,14 @@
   <div class="col-md-12">
     <h3>Referenssit</h3>
     <center>
-      <a href="http://www.fennoa.com/"><img src="images/references/fennoa.png" class="reference"></a>
-      <a href="http://www.briox.fi/"><img src="images/references/briox.svg" class="reference" style="width:30%;"></a>
-      <a href="http://www.graphia.fi/"><img src="images/references/graphia-logo.jpg" class="reference"></a>
-      <a href="http://www.hostingpalvelu.fi/"><img src="images/references/hostingpalvelu.png" class="reference"></a>
-      <a href="http://www.secureaction.fi/"><img src="images/references/secureaction.png" class="reference"></a>
-      <a href="http://www.joutsenrahoitus.fi/"><img src="images/references/joutsen-rahoitus.png" class="reference"></a>
-      <a href="http://www.talokeskus.fi/"><img src="images/references/talokeskus.jpg" class="reference"></a>
-      <a href="https://www.linkedin.com/in/ismojokitalo/"><img src="images/references/acFakta.png" class="reference"></a>
+      <img src="images/references/fennoa.png" class="reference">
+      <img src="images/references/briox.svg" class="reference" style="width:30%;">
+      <img src="images/references/graphia-logo.jpg" class="reference">
+      <img src="images/references/hostingpalvelu.png" class="reference">
+      <img src="images/references/secureaction.png" class="reference">
+      <img src="images/references/joutsen-rahoitus.png" class="reference">
+      <img src="images/references/talokeskus.jpg" class="reference">
+      <img src="images/references/acFakta.png" class="reference">
     </center>
   </div>
 </div>
