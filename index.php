@@ -5,7 +5,7 @@
     <?php include('header.php'); ?>
     <title>ISECure Oy</title>
     <meta name="description" content="ISECure Oy - Main page and carousel. Information about ISECure offering.">
-    <link rel="canonical" href="https://www.isecure.fi/">
+    <link rel="canonical" href="https://www.isecure.fi/index.html">
   </head>
   <body>
     <?php include('navigation.php'); ?>
