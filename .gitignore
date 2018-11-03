@@ -5,3 +5,8 @@ composer.phar
 composer.lock
 phpunit.phar
 vendor/
+css/*.css
+*.html
+node_modules/
+package-lock.json
+
