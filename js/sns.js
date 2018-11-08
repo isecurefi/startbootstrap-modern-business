@@ -25,7 +25,15 @@ function SendSNS(msg, name, email, result, thankyou)
     }, function (err, data) {
         if (!err) {
             if (result) result.innerHTML = "<b>Viesti l&auml;hetetty!</b>";
-            window.location = thankyou;
+            var callback = function () {
+                window.location = thankyou;
+            };
+            gtag('event', 'conversion', {
+                'send_to': 'AW-1025469048/9KrvCJHsiY0BEPjU_egD',
+                'value': 5.0,
+                'currency': 'EUR',
+                'event_callback': callback
+            });
         } else {
             console.log(err, err.stack);
             if (result) result.innerHTML = "<b>Viesti&auml; ei voitu l&auml;hett&auml;&auml;!</b>";

@@ -2,7 +2,15 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <?php include('header.php'); ?> 
+    <?php include('header.php'); ?>
+    <!-- Event snippet for WS SDK conversion page -->
+    <script>
+      gtag('event', 'conversion', {
+          'send_to': 'AW-1025469048/6B-QCM6LvFcQ-NT96AM',
+          'value': 1.0,
+          'currency': 'EUR'
+      });
+    </script>
     <title>ISECure Oy - WS Kanava</title>
     <meta name="description" content="ISECure Oy - Information about WS Kanava software packages">
     <link rel="canonical" href="https://www.isecure.fi/ws-kanava.html">

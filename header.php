@@ -3,6 +3,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="ISECure Oy">
 
+<!-- Global site tag (gtag.js) - Google Ads: 1025469048 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1025469048"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-1025469048');
+</script>
+
+<!-- Event snippet for Yhteystietolomake conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+
 <!-- Bootstrap Core CSS -->
 <link href="css/combined.css" rel="stylesheet">
 
