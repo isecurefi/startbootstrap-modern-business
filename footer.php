@@ -1,3 +1,4 @@
+<?php include_once('ib64.php'); ?>
         <footer>
           <div class="row footer">
             <p style="padding:5px;margin:0px;text-align:left;">Copyright &copy; ISECure Oy 2018</p>
@@ -14,15 +15,15 @@
 		<i>dan.forsberg@isecure.fi</i><br>
         +358 40 483 5507 (Finland)<br>
         +44 7391 228 338 (UK)<br>
-            <img src="images/AWS_SAP.png" class="awslogos2">
-            <img src="images/AWS_DOP.png" class="awslogos2">
-            <img src="images/AWS_SS.png" class="awslogos2">
-            <img src="images/AWS_BD.png" class="awslogos2">
-            <img src="images/AWS_NS.png" class="awslogos2"><br>
-            <img src="images/AWS_DA.png" class="awslogos2">
-            <img src="images/AWS_SAA.png" class="awslogos2">
-            <img src="images/AWS_SOA.png" class="awslogos2">
-            <img src="images/AWS_CP.png" class="awslogos2">
+            <img src="<?php ib64('images/AWS_SAP.png'); ?>" class="awslogos2">
+            <img src="<?php ib64('images/AWS_DOP.png'); ?>" class="awslogos2">
+            <img src="<?php ib64('images/AWS_SS.png'); ?>" class="awslogos2">
+            <img src="<?php ib64('images/AWS_BD.png'); ?>" class="awslogos2">
+            <img src="<?php ib64('images/AWS_NS.png'); ?>" class="awslogos2"><br>
+            <img src="<?php ib64('images/AWS_DA.png'); ?>" class="awslogos2">
+            <img src="<?php ib64('images/AWS_SAA.png'); ?>" class="awslogos2">
+            <img src="<?php ib64('images/AWS_SOA.png'); ?>" class="awslogos2">
+            <img src="<?php ib64('images/AWS_CP.png'); ?>" class="awslogos2">
 	      </p>
             </div>
             <div class="col-xs-6 col-sm-4">

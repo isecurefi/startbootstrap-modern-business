@@ -1,11 +1,4 @@
-<?php
-function ib64($img) {
-    print('data:image/' .
-          pathinfo($img, PATHINFO_EXTENSION) .
-          ';base64,' .
-          base64_encode(file_get_contents($img)));
-}
-?>
+<?php include_once('ib64.php'); ?>
 <div class="row">
   <div class="col-md-12">
     <br>
