@@ -13,7 +13,7 @@
        </div>
      </div>
      <!-- /.row -->
-    <div class="col-md-6 col-sm-6 col-xs-12">
+    <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="panel panel-primary">
         <div class="panel-heading panel-heading-first">
           <h2 class="panel-title">TUOTEKEHITT&Auml;JILLE<br><br>ISECure WS-Kanava</h2>
@@ -35,7 +35,7 @@
         </div>
       </div>
     </div>
-    <div class="col-md-6 col-sm-6 col-xs-12">
+    <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="panel panel-primary">
         <div class="panel-heading panel-heading-second">
           <h2 class="panel-title">API<br><br>ISECure WS-Kanava API</h2>
@@ -55,6 +55,19 @@
           <div style="text-align:center;">
             <a href="ws-api.php" class="btn btn-primary">LUE LIS&Auml;&Auml;</a>
 	  </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 col-sm-4 col-xs-12">
+      <div class="panel panel-primary">
+        <div class="panel-heading panel-heading-second">
+          <h2 class="panel-title">Pankkitiedostot palveluna<br><br>ISECure WS-Kanava PUSH</h2>
+        </div>
+        <div class="panel-body">
+          <p>PANKKITIEDOSTOT SUORAAN PALVEIMELLESI</p>
+	  
+          <p>Palvelu synkronoi tiedostot pankista esim. SFTP palvelimellesi tai vaikkapa AWS S3 Bucket:iin säännöllisesti ja luotettavasti haluamansi ajankohtana.</p>
+	  
         </div>
       </div>
     </div>

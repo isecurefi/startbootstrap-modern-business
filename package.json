@@ -1,0 +1,24 @@
+{
+  "name": "www.isecure.fi",
+  "version": "1.0.0",
+  "description": "- Original [README.md](https://github.com/IronSummitMedia/startbootstrap-modern-business/blob/gh-pages/README.md)",
+  "main": "index.html",
+  "dependencies": {
+    "cssnano": "^4.1.10",
+    "cssnano-preset-default": "^4.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isecurefi/startbootstrap-modern-business.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isecurefi/startbootstrap-modern-business/issues"
+  },
+  "homepage": "https://github.com/isecurefi/startbootstrap-modern-business#readme"
+}
