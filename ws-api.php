@@ -1,6 +1,6 @@
 <?php include('lang.php'); ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fi">
   <head>
     <?php include('header.php'); ?> 
     <title>ISECure Oy - API</title>

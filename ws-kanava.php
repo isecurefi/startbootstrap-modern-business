@@ -1,6 +1,6 @@
 <?php include('lang.php'); ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fi">
   <head>
     <?php include('header.php'); ?>
     <!-- Event snippet for WS SDK conversion page -->
@@ -13,7 +13,7 @@
     </script>
     <title>ISECure Oy - WS Kanava</title>
     <meta name="description" content="ISECure Oy - Information about WS Kanava software packages">
-    <link rel="canonical" href="https://www.isecure.fi/ws-kanava.html">
+    <link rel="canonical" href="https://www.isecure.fi/ws-kanava.html" hreflang="fi">
   </head>
   <body>
     <?php include('navigation.php'); ?>
