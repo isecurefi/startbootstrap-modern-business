@@ -1,9 +1,7 @@
-AWS.config.update({
-    accessKeyId: 'AKIAIX5VKUESX7ZWVEJA',
-    secretAccessKey: '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'
-});
-
 AWS.config.region = 'eu-west-1';
+AWS.config.credentials = new AWS.CognitoIdentityCredentials({
+    IdentityPoolId: 'eu-west-1:350ec7b8-c08e-4bc6-a52f-fad9f2b1ae5c'
+});
 
 function SendSNS(msg, name, email, result, thankyou)
 {
