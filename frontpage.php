@@ -61,13 +61,12 @@
     <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="panel panel-primary">
         <div class="panel-heading panel-heading-second">
-          <h2 class="panel-title">Pankkitiedostot palveluna<br><br>ISECure WS-Kanava PUSH</h2>
+          <h2 class="panel-title">Pankkitiedostot palveluna<br><br>ISECure WS-Kanava SYNC</h2>
         </div>
         <div class="panel-body">
           <p>PANKKITIEDOSTOT SUORAAN PALVEIMELLESI</p>
 	  
-          <p>Palvelu synkronoi tiedostot pankista esim. SFTP palvelimellesi tai vaikkapa AWS S3 Bucket:iin säännöllisesti ja luotettavasti haluamansi ajankohtana.</p>
-	  
+          <p>Palvelu synkronoi tiedostot pankista esim. SFTP palvelimellesi tai vaikkapa AWS S3 Bucket:iin säännöllisesti ja luotettavasti haluamansi ajankohtana. Pankkitiedostojen lähetys onnistuu myös lähettämällä tiedostot suoraan S3 Bucketiin. Selkeät raportit sekä lähetyksistä että vastaanotoista.</p>
         </div>
       </div>
     </div>
